@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors are stored as raw RGB channel triplets so Tailwind's opacity
+   modifiers (bg-surface/40, border-accent/60, …) resolve correctly via
+   rgb(var(--x) / <alpha-value>). */
+:root {
+  --bg: 250 247 240; /* #faf7f0  cream paper */
+  --surface: 255 255 255; /* #ffffff  white cards */
+  --text: 42 38 34; /* #2a2622  ink */
+  --muted: 122 115 106; /* #7a736a  soft gray */
+  --accent: 63 107 125; /* #3f6b7d  slate blue */
+  --border: 230 222 208; /* #e6ded0  faint sepia */
+}
+
+html,
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+}
+
+body {
+  font-family: var(--font-dmsans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+.font-heading {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+/* Custom scrollbar to match the warm palette. */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: rgb(var(--bg));
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--border));
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--accent));
+}
+
+/* Pulsing cursor shown after the last streaming token. */
+@keyframes cursor-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+.streaming-cursor {
+  display: inline-block;
+  width: 0.5em;
+  height: 1.05em;
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  background: rgb(var(--accent));
+  animation: cursor-pulse 1s steps(2, start) infinite;
+}
+
+/* Rendered-markdown styling for assistant messages. */
+.message-body {
+  line-height: 1.65;
+  word-break: break-word;
+}
+.message-body > :first-child {
+  margin-top: 0;
+}
+.message-body > :last-child {
+  margin-bottom: 0;
+}
+
+.message-body p {
+  margin: 0.7em 0;
+}
+
+.message-body h1,
+.message-body h2,
+.message-body h3,
+.message-body h4 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 1.1em 0 0.5em;
+  color: rgb(var(--text));
+}
+.message-body h1 {
+  font-size: 1.4em;
+}
+.message-body h2 {
+  font-size: 1.25em;
+}
+.message-body h3 {
+  font-size: 1.1em;
+}
+
+.message-body strong {
+  font-weight: 600;
+  color: rgb(var(--text));
+}
+.message-body em {
+  font-style: italic;
+}
+
+.message-body a {
+  color: rgb(var(--accent));
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Lists */
+.message-body ul,
+.message-body ol {
+  margin: 0.6em 0;
+  padding-left: 1.4em;
+}
+.message-body li {
+  margin: 0.3em 0;
+}
+.message-body ul {
+  list-style: none;
+}
+.message-body ul > li {
+  position: relative;
+}
+.message-body ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.05em;
+  top: 0.68em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgb(var(--accent));
+}
+.message-body ol {
+  list-style: decimal;
+}
+.message-body ol > li::marker {
+  color: rgb(var(--accent));
+  font-variant-numeric: tabular-nums;
+}
+.message-body li > ul,
+.message-body li > ol {
+  margin: 0.2em 0;
+}
+
+/* Inline code & code blocks */
+.message-body code {
+  font-family: ui-monospace, "Cascadia Code", "SFMono-Regular", Menlo, monospace;
+  font-size: 0.88em;
+  background: rgb(var(--surface));
+  border: 1px solid rgb(var(--border));
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+.message-body pre {
+  background: rgb(var(--surface));
+  border: 1px solid rgb(var(--border));
+  border-radius: 8px;
+  padding: 0.9em 1em;
+  overflow-x: auto;
+  margin: 0.8em 0;
+}
+.message-body pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.85em;
+}
+
+/* Blockquotes */
+.message-body blockquote {
+  margin: 0.8em 0;
+  padding: 0.2em 0 0.2em 1em;
+  border-left: 3px solid rgb(var(--accent) / 0.5);
+  color: rgb(var(--muted));
+  font-style: italic;
+}
+
+/* Tables */
+.message-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.9em 0;
+  font-size: 0.95em;
+}
+.message-body th,
+.message-body td {
+  border: 1px solid rgb(var(--border));
+  padding: 0.5em 0.7em;
+  text-align: left;
+}
+.message-body thead th {
+  background: rgb(var(--surface));
+  font-weight: 600;
+}
+
+.message-body hr {
+  border: none;
+  border-top: 1px solid rgb(var(--border));
+  margin: 1.2em 0;
+}

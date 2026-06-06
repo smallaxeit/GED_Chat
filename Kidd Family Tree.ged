@@ -1,0 +1,3372 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Kidd Family Tree
+3 RIN 63938129
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 27 May 2026
+2 TIME 01:17:53
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I48114428611@ INDI
+1 NAME Justin M /Kidd/
+2 GIVN Justin M
+2 SURN Kidd
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::2926634
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F19@
+1 BIRT
+2 DATE 08 25 1979
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::2926634
+1 BIRT
+2 DATE abt 1980
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::2926634
+1 RESI
+2 PLAC Licking, Ohio, United States
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::2926634
+1 SOUR @S_186886886@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+2 _APID 1,2025::2926634
+0 @I48114427813@ INDI
+1 NAME Jeffrey F /Kidd/
+2 GIVN Jeffrey F
+2 SURN Kidd
+2 SOUR @S_186887232@
+3 _APID 1,1732::4783201
+3 _APID 1,1732::4785443
+3 _APID 1,1732::355389093
+3 _APID 1,1732::238554612
+2 SOUR @S_186887045@
+3 _APID 1,1788::308214509
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F16@
+1 FAMS @F25@
+1 BIRT
+2 DATE 1 Nov 1971
+2 SOUR @S_186887232@
+3 _APID 1,1732::4783201
+3 _APID 1,1732::4785443
+3 _APID 1,1732::355389093
+3 _APID 1,1732::238554612
+1 RESI
+2 DATE 1935-1993
+2 PLAC Lumberton Township, NJ
+2 SOUR @S_186887232@
+3 _APID 1,1732::238554612
+1 RESI
+2 DATE 1935-1993
+2 PLAC Newark, OH
+2 SOUR @S_186887232@
+3 _APID 1,1732::4783201
+3 _APID 1,1732::4785443
+3 _APID 1,1732::355389093
+1 RESI
+2 DATE 1994
+2 PLAC Trenton, NJ
+2 SOUR @S_186887045@
+3 _APID 1,1788::308214509
+1 SOUR @S_186887232@
+2 _APID 1,1732::4783201
+2 _APID 1,1732::4785443
+2 _APID 1,1732::355389093
+2 _APID 1,1732::238554612
+1 SOUR @S_186887045@
+2 _APID 1,1788::308214509
+0 @I48114428515@ INDI
+1 NAME Vicky Lynn /Kidd/
+2 GIVN Vicky Lynn
+2 SURN Kidd
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::3184079
+2 SOUR @S_186886888@
+3 _APID 1,8787::3346960
+1 NAME Vicky L /Bieberbach/
+2 GIVN Vicky L
+2 SURN Bieberbach
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1258586
+1 NAME Vicky Lynn /Bieberbach/
+2 GIVN Vicky Lynn
+2 SURN Bieberbach
+2 SOUR @S_186887045@
+3 _APID 1,1788::263435026
+1 NAME Vicky L /Kidd/
+2 GIVN Vicky L
+2 SURN Kidd
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1203365
+1 NAME Vicky L /Kidd/
+2 GIVN Vicky L
+2 SURN Kidd
+2 SOUR @S_186886888@
+3 _APID 1,8787::5346960
+1 SEX F
+1 FAMC @F6@
+1 FAMS @F4@
+1 BIRT
+2 DATE 03 30 1955
+2 PLAC Licking County, Ohio, USA
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::3184079
+2 SOUR @S_186886888@
+3 _APID 1,8787::3346960
+1 BIRT
+2 DATE 1955
+2 PLAC Licking County, Ohio, USA
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1258586
+1 BIRT
+2 DATE 1955
+2 PLAC Licking County, Ohio, USA
+2 SOUR @S_186886888@
+3 _APID 1,8787::5346960
+1 MARR
+2 DATE 19 Oct 1991
+2 PLAC Greenup, Kentucky
+2 SOUR @S_186886888@
+3 _APID 1,8787::3346960
+1 DIV
+2 DATE 14 Jan 1986
+2 PLAC Licking
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1203365
+1 RESI
+2 DATE 1992
+2 PLAC Newark, OH
+2 SOUR @S_186887045@
+3 _APID 1,1788::263435026
+1 DIV
+2 DATE 12 Oct 1993
+2 PLAC Licking
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1258586
+3 _APID 1,2026::3184079
+1 RESI
+2 PLAC Heath, Licking, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1258586
+3 _APID 1,2026::3184079
+1 RESI
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1203365
+1 SOUR @S_186887045@
+2 _APID 1,1788::263435026
+1 SOUR @S_186879533@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+2 _APID 1,2026::1203365
+2 _APID 1,2026::1258586
+2 _APID 1,2026::3184079
+1 SOUR @S_186886888@
+2 _APID 1,8787::3346960
+2 _APID 1,8787::5346960
+0 @I48114428674@ INDI
+1 NAME Jason Michael /Kidd/
+2 GIVN Jason Michael
+2 SURN Kidd
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::3031635
+1 NAME Jason M /Kidd/
+2 GIVN Jason M
+2 SURN Kidd
+2 SOUR @S_186887045@
+3 _APID 1,1788::154935649
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F22@
+1 FAMS @F1@
+1 BIRT
+2 DATE 22 Jun 1974
+2 PLAC Licking County, Ohio, USA
+2 SOUR @S_186887045@
+3 _APID 1,1788::154935649
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::3031635
+1 RESI
+2 DATE 1995
+2 PLAC Newark, OH
+2 SOUR @S_186887045@
+3 _APID 1,1788::154935649
+2 NOTE Age: 21
+1 RESI
+2 PLAC Licking, Ohio, United States
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::3031635
+1 SOUR @S_186887045@
+2 _APID 1,1788::154935649
+1 SOUR @S_186886886@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+2 _APID 1,2025::3031635
+0 @I48114429144@ INDI
+1 NAME Jeffrey Allen /Kidd/
+2 GIVN Jeffrey Allen
+2 SURN Kidd
+1 NAME Jeff Allen /Kidd/
+2 GIVN Jeff Allen
+2 SURN Kidd
+2 SOUR @S_186887045@
+3 _APID 1,1788::85381388
+1 NAME Jeffrey A /Kidd/
+2 GIVN Jeffrey A
+2 SURN Kidd
+2 SOUR @S_186887232@
+3 _APID 1,1732::315193263
+1 NAME Jeffrey A /Kidd/
+2 GIVN Jeffrey A
+2 SURN Kidd
+2 SOUR @S_186887232@
+3 _APID 1,1732::315202175
+1 NAME Jeffrey A /Kidd/
+2 GIVN Jeffrey A
+2 SURN Kidd
+2 SOUR @S_186887232@
+3 _APID 1,1732::398818421
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F5@
+1 FAMS @F4@
+1 BIRT
+2 DATE 09-27-1953
+1 BIRT
+2 DATE 27 Sep 1953
+2 SOUR @S_186887045@
+3 _APID 1,1788::85381388
+1 BIRT
+2 DATE 27 Sep 1953
+2 SOUR @S_186887232@
+3 _APID 1,1732::315193263
+1 BIRT
+2 DATE 27 Sep 1953
+2 SOUR @S_186887232@
+3 _APID 1,1732::315202175
+1 BIRT
+2 DATE 27 Sep 1953
+2 SOUR @S_186887232@
+3 _APID 1,1732::398818421
+1 RESI
+2 DATE 1935-1993
+2 PLAC Rincon, GA
+2 SOUR @S_186887232@
+3 _APID 1,1732::315193263
+3 _APID 1,1732::398818421
+3 _APID 1,1732::315202175
+1 RESI
+2 DATE 1992
+2 PLAC Rincon, GA
+2 SOUR @S_186887045@
+3 _APID 1,1788::85381388
+2 NOTE Age: 39
+1 SOUR @S_186887232@
+2 _APID 1,1732::315193263
+2 _APID 1,1732::398818421
+2 _APID 1,1732::315202175
+1 SOUR @S_186887045@
+2 _APID 1,1788::85381388
+0 @I48114429616@ INDI
+1 NAME Matthew Christopher /Kidd/
+2 GIVN Matthew Christopher
+2 SURN Kidd
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F49@
+1 BIRT
+2 DATE 06-09-1999
+2 PLAC Newark, Licking, Ohio, USA
+0 @I48114429726@ INDI
+1 NAME Marissa Ann /Kidd/
+2 GIVN Marissa Ann
+2 SURN Kidd
+1 SEX F
+1 FAMC @F19@
+1 BIRT
+2 DATE 04-20-2006
+0 @I48114429779@ INDI
+1 NAME Justina Marie /(Kidd) Helmley/
+2 GIVN Justina Marie
+2 SURN (Kidd) Helmley
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F12@
+1 BIRT
+2 DATE February 04 1987
+0 @I48114429859@ INDI
+1 NAME Wilbur /Kidd/
+2 GIVN Wilbur
+2 SURN Kidd
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+2 SOUR @S357534555@
+3 _APID 1,60525::142163434
+2 SOUR @S357533908@
+3 _APID 1,61378::4718447
+1 NAME Wilbur L /Kidd/
+2 GIVN Wilbur L
+2 SURN Kidd
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1995996
+1 NAME Wilbur L /Kidd/
+2 GIVN Wilbur L
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478636
+1 NAME Wilber L /Kidd/
+2 GIVN Wilber L
+2 SURN Kidd
+2 SOUR @S_186879411@
+3 _APID 1,2469::301790533
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F17@
+1 FAMS @F20@
+1 BIRT
+2 DATE abt 1937
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478636
+2 SOUR @S357534555@
+3 _APID 1,60525::142163434
+2 SOUR @S357533908@
+3 _APID 1,61378::4718447
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478636
+2 NOTE Age: 3; Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 1957
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::301790533
+1 DIV
+2 DATE 11 Jul 1962
+2 PLAC Licking
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+3 _APID 1,2026::1995996
+1 RESI
+2 PLAC Columbus, Franklin, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1995996
+1 RESI
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+1 DEAT
+2 DATE 26 March 2017
+2 SOUR @S357534555@
+3 _APID 1,60525::142163434
+1 BURI
+2 PLAC Augusta, Richmond County, Georgia, United States of America
+2 SOUR @S357534555@
+3 _APID 1,60525::142163434
+1 SOUR @S_186879533@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+2 _APID 1,2026::70503
+2 _APID 1,2026::1995996
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478636
+1 SOUR @S_186879411@
+2 _APID 1,2469::301790533
+1 SOUR @S357534555@
+2 _APID 1,60525::142163434
+1 SOUR @S357533908@
+2 _APID 1,61378::4718447
+0 @I48114429912@ INDI
+1 NAME Hazel E /(Ritchey, Burgess) Johnson/
+2 GIVN Hazel E
+2 SURN (Ritchey, Burgess) Johnson
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899544
+2 SOUR @S_186879411@
+3 _APID 1,2469::279612599
+2 SOUR @S_186879302@
+3 PAGE Number: 289-12-9286; Issue State: Ohio; Issue Date: Before 1951
+3 _APID 1,3693::31073106
+2 SOUR @S_186879320@
+3 PAGE Certificate: 022089; Volume: 33286
+3 _APID 1,5763::4503751
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479976
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378472
+2 SOUR @S357533908@
+3 _APID 1,61378::1623808
+3 _APID 1,61378::902060225
+2 SOUR @S357535463@
+3 _APID 1,70050::15316014
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F6@
+1 FAMS @F7@
+1 FAMS @F54@
+1 BIRT
+2 DATE 3 Jun 1919
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899544
+2 SOUR @S_186879302@
+3 PAGE Number: 289-12-9286; Issue State: Ohio; Issue Date: Before 1951
+3 _APID 1,3693::31073106
+2 SOUR @S_186879320@
+3 PAGE Certificate: 022089; Volume: 33286
+3 _APID 1,5763::4503751
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479976
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378472
+2 SOUR @S357533908@
+3 _APID 1,61378::902060225
+2 SOUR @S357535463@
+3 _APID 1,70050::15316014
+1 RESI
+2 DATE 1920
+2 PLAC Columbus Ward 1, Franklin, Ohio, USA
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479976
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Hanover, Licking, Ohio
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378472
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1935
+2 PLAC Hanover, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899544
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899544
+2 NOTE Marital Status: Widowed; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1948
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::279612599
+1 RESI
+2 PLAC Perry, Ohio, United States
+2 SOUR @S_186879320@
+3 PAGE Certificate: 022089; Volume: 33286
+3 _APID 1,5763::4503751
+2 NOTE Marital Status: Widowed
+1 DEAT
+2 DATE 20 Mar 2002
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186879302@
+3 PAGE Number: 289-12-9286; Issue State: Ohio; Issue Date: Before 1951
+3 _APID 1,3693::31073106
+2 SOUR @S_186879320@
+3 PAGE Certificate: 022089; Volume: 33286
+3 _APID 1,5763::4503751
+2 SOUR @S357535463@
+3 _APID 1,70050::15316014
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+2 _APID 1,2442::35899544
+1 SOUR @S_186879411@
+2 _APID 1,2469::279612599
+1 SOUR @S_186879302@
+2 PAGE Number: 289-12-9286; Issue State: Ohio; Issue Date: Before 1951
+2 _APID 1,3693::31073106
+1 SOUR @S_186879320@
+2 PAGE Certificate: 022089; Volume: 33286
+2 _APID 1,5763::4503751
+1 SOUR @S357534442@
+2 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+2 _APID 1,6061::33479976
+1 SOUR @S357534699@
+2 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+2 _APID 1,6224::71378472
+1 SOUR @S357533908@
+2 _APID 1,61378::1623808
+2 _APID 1,61378::902060225
+1 SOUR @S357535463@
+2 _APID 1,70050::15316014
+0 @I48114430014@ INDI
+1 NAME Marley Alyssa /Kidd/
+2 GIVN Marley Alyssa
+2 SURN Kidd
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F31@
+1 BIRT
+2 DATE Jan 21 1993
+0 @I48114430023@ INDI
+1 NAME Hannah Renee /Kidd/
+2 GIVN Hannah Renee
+2 SURN Kidd
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F53@
+1 BIRT
+2 DATE Jan 24 1997
+0 @I48114430055@ INDI
+1 NAME Thaddeus Alexander /Kidd/
+2 GIVN Thaddeus Alexander
+2 SURN Kidd
+1 SEX M
+1 FAMC @F22@
+1 BIRT
+2 DATE March 20 2005
+0 @I48114430076@ INDI
+1 NAME Maddigan Rose /Kidd/
+2 GIVN Maddigan Rose
+2 SURN Kidd
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE September 15 2006
+0 @I48114430142@ INDI
+1 NAME Meghan Therese /McAlpin/
+2 GIVN Meghan Therese
+2 SURN McAlpin
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE January 20 1994
+2 PLAC New Jersey, USA
+0 @I48114430410@ INDI
+1 NAME Savannah Rae /Kidd/
+2 GIVN Savannah Rae
+2 SURN Kidd
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE May 05 2004
+2 PLAC New Jersey, USA
+0 @I48114430424@ INDI
+1 NAME Faith Madeline /Kidd/
+2 GIVN Faith Madeline
+2 SURN Kidd
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE September 27 2005
+2 PLAC New Jersey, USA
+0 @I48114431623@ INDI
+1 NAME Ashton /Helmley/
+2 GIVN Ashton
+2 SURN Helmley
+1 SEX M
+1 FAMC @F12@
+0 @I48114505415@ INDI
+1 NAME Emma /Helmley/
+2 GIVN Emma
+2 SURN Helmley
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE 2013
+2 PLAC Rincon GA
+0 @I48114505473@ INDI
+1 NAME Jase /Helmley/
+2 GIVN Jase
+2 SURN Helmley
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE 2013
+2 PLAC Rincon GA
+0 @I48114506993@ INDI
+1 NAME Michelle /Kidd/
+2 GIVN Michelle
+2 SURN Kidd
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 PLAC OH
+0 @I48114507461@ INDI
+1 NAME Twila Milam /Walpole/
+2 GIVN Twila Milam
+2 SURN Walpole
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1995996
+2 SOUR @S357533908@
+3 _APID 1,61378::904718447
+1 NAME Twila L /Walpole/
+2 GIVN Twila L
+2 SURN Walpole
+2 SOUR @S_186887232@
+3 _APID 1,1732::355384051
+1 NAME Twila /Walpole/
+2 GIVN Twila
+2 SURN Walpole
+2 SOUR @S_186879302@
+3 PAGE Number: 297-54-2310; Issue State: Ohio; Issue Date: 1969-1970
+3 _APID 1,3693::65275340
+1 NAME Twila L /Walpole/
+2 GIVN Twila L
+2 SURN Walpole
+2 SOUR @S_186879320@
+3 PAGE Certificate: 058630; Volume: 26968
+3 _APID 1,5763::1646429
+1 NAME Twila L /Kidd/
+2 GIVN Twila L
+2 SURN Kidd
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+1 NAME Twila /Kidd/
+2 GIVN Twila
+2 SURN Kidd
+2 SOUR @S_186879411@
+3 _APID 1,2469::301790534
+1 SEX F
+1 FAMC @F44@
+1 FAMC @F45@
+1 FAMS @F17@
+1 FAMS @F43@
+1 BIRT
+2 DATE 14 Sep 1937
+2 PLAC OH
+2 SOUR @S_186887232@
+3 _APID 1,1732::355384051
+2 SOUR @S_186879320@
+3 PAGE Certificate: 058630; Volume: 26968
+3 _APID 1,5763::1646429
+2 SOUR @S357533908@
+3 _APID 1,61378::904718447
+1 BIRT
+2 DATE 14 Sep 1937
+2 PLAC OH
+2 SOUR @S_186879302@
+3 PAGE Number: 297-54-2310; Issue State: Ohio; Issue Date: 1969-1970
+3 _APID 1,3693::65275340
+1 RESI
+2 DATE 1935-1993
+2 PLAC Newark, OH
+2 SOUR @S_186887232@
+3 _APID 1,1732::355384051
+1 RESI
+2 DATE 1957
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::301790534
+1 DIV
+2 DATE 11 Jul 1962
+2 PLAC Licking
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+3 _APID 1,2026::1995996
+1 EVEN
+2 TYPE Civil
+2 PLAC Ohio
+2 SOUR @S_186879302@
+3 PAGE Number: 297-54-2310; Issue State: Ohio; Issue Date: 1969-1970
+3 _APID 1,3693::65275340
+1 RESI
+2 PLAC Columbus, Franklin, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1995996
+1 RESI
+2 PLAC Licking, Ohio, United States
+2 SOUR @S_186879320@
+3 PAGE Certificate: 058630; Volume: 26968
+3 _APID 1,5763::1646429
+2 NOTE Marital Status: Married
+1 RESI
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::70503
+1 DEAT
+2 DATE 27 Jul 1987
+2 PLAC Columbus (Pt), Franklin, Ohio, United States
+2 SOUR @S_186879320@
+3 PAGE Certificate: 058630; Volume: 26968
+3 _APID 1,5763::1646429
+2 NOTE Age: 49
+1 DEAT
+2 DATE Jul 1987
+2 PLAC Saint Louisville, Licking, Ohio, USA
+2 SOUR @S_186879302@
+3 PAGE Number: 297-54-2310; Issue State: Ohio; Issue Date: 1969-1970
+3 _APID 1,3693::65275340
+2 NOTE Age: 49
+1 SOUR @S_186887232@
+2 _APID 1,1732::355384051
+1 SOUR @S_186879533@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+2 _APID 1,2026::70503
+2 _APID 1,2026::1995996
+1 SOUR @S_186879411@
+2 _APID 1,2469::301790534
+1 SOUR @S_186879302@
+2 PAGE Number: 297-54-2310; Issue State: Ohio; Issue Date: 1969-1970
+2 _APID 1,3693::65275340
+1 SOUR @S_186879320@
+2 PAGE Certificate: 058630; Volume: 26968
+2 _APID 1,5763::1646429
+1 SOUR @S357533908@
+2 _APID 1,61378::904718447
+0 @I48114507820@ INDI
+1 NAME William /Johnson/
+2 GIVN William
+2 SURN Johnson
+1 SEX M
+1 FAMC @F54@
+1 FAMS @F21@
+1 BIRT
+2 PLAC OH
+0 @I48114508122@ INDI
+1 NAME Kathy /Manson/
+2 GIVN Kathy
+2 SURN Manson
+1 SEX F
+1 FAMC @F6@
+1 FAMS @F48@
+1 BIRT
+2 PLAC Newark, Licking, Ohio, United States
+0 @I48114665032@ INDI
+1 NAME Brayden /Ligget/
+2 GIVN Brayden
+2 SURN Ligget
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 13 Jan 2012
+0 @I48114669217@ INDI
+1 NAME Ephraim J /Kidd/
+2 GIVN Ephraim J
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478618
+2 SOUR @S_186879411@
+3 _APID 1,2469::277904433
+2 SOUR @S357681251@
+3 _APID 1,2590::1535064
+2 SOUR @S_186812458@
+3 _APID 1,8771::586324
+1 NAME Ephram /Kidd/
+2 GIVN Ephram
+2 SURN Kidd
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 2A; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291314
+1 NAME Ephriam James /Kidd/
+2 GIVN Ephriam James
+2 SURN Kidd
+2 SOUR @S_186812409@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; State Headquarters: Ohio
+3 _APID 1,1002::7072876
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F39@
+1 BIRT
+2 DATE abt 1893
+2 PLAC Mississippi
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478618
+2 SOUR @S_186812458@
+3 _APID 1,8771::586324
+1 BIRT
+2 DATE Nov 1892
+2 PLAC Missouri
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 2A; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291314
+1 BIRT
+2 DATE 14 Nov 1893
+2 PLAC St Joseph, Missouri
+2 SOUR @S_186812409@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; State Headquarters: Ohio
+3 _APID 1,1002::7072876
+1 RESI
+2 DATE 1900
+2 PLAC Marshall, Platte, Missouri, USA
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 2A; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291314
+2 NOTE Age: 7; Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478618
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478618
+2 NOTE Age: 47; Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1941
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::277904433
+1 RESI
+2 DATE 1942
+2 PLAC Licking, Ohio
+2 SOUR @S_186812409@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; State Headquarters: Ohio
+3 _APID 1,1002::7072876
+2 NOTE Age: 49
+1 DEAT
+2 DATE 8 Nov 1950
+2 PLAC Garland, Arkansas
+2 SOUR @S357681251@
+3 _APID 1,2590::1535064
+2 SOUR @S_186812458@
+3 _APID 1,8771::586324
+2 NOTE Age: 57
+1 BURI
+2 PLAC Little Rock, Arkansas
+2 SOUR @S357681251@
+3 _APID 1,2590::1535064
+1 SOUR @S_186812409@
+2 PAGE National Archives and Records Administration (NARA); Washington, D.C.; State Headquarters: Ohio
+2 _APID 1,1002::7072876
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 904596327:1030:4467453
+2 _APID 20306496528:1030:49299407
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478618
+1 SOUR @S_186879411@
+2 _APID 1,2469::277904433
+1 SOUR @S357681251@
+2 _APID 1,2590::1535064
+1 SOUR @S_186812392@
+2 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 2A; Enumeration District: 0135; FHL microfilm: 1240882
+2 _APID 1,7602::30291314
+1 SOUR @S_186812458@
+2 _APID 1,8771::586324
+0 @I48114669218@ INDI
+1 NAME Mabel /(Pennington) Kidd/
+2 GIVN Mabel
+2 SURN (Pennington) Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478620
+2 SOUR @S_186879411@
+3 _APID 1,2469::277904434
+2 SOUR @S357533908@
+3 _APID 1,61378::1204718447
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE abt 1902
+2 PLAC West Virginia
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478620
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478620
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478620
+2 NOTE Age: 38; Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1941
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::277904434
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478620
+1 SOUR @S_186879411@
+2 _APID 1,2469::277904434
+1 SOUR @S357533908@
+2 _APID 1,61378::1204718447
+0 @I48114669221@ INDI
+1 NAME Aloria J /Kidd/
+2 GIVN Aloria J
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478623
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE abt 1928
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478623
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478623
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478623
+2 NOTE Age: 12; Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478623
+0 @I48114669222@ INDI
+1 NAME Elva /Kidd/
+2 GIVN Elva
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478626
+2 SOUR @S357533908@
+3 _APID 1,61378::904730392
+1 SEX F
+2 SOUR @S357533908@
+3 _APID 1,61378::904730392
+1 FAMC @F39@
+1 FAMS @F40@
+1 BIRT
+2 DATE abt 1930
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478626
+2 SOUR @S357533908@
+3 _APID 1,61378::904730392
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478626
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478626
+2 NOTE Age: 10; Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478626
+1 SOUR @S357533908@
+2 _APID 1,61378::904730392
+0 @I48114669224@ INDI
+1 NAME Betty /Kidd/
+2 GIVN Betty
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478630
+2 SOUR @S357533908@
+3 _APID 1,61378::902036949
+1 SEX F
+2 SOUR @S357533908@
+3 _APID 1,61378::902036949
+1 FAMC @F39@
+1 FAMS @F34@
+1 BIRT
+2 DATE abt 1933
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478630
+2 SOUR @S357533908@
+3 _APID 1,61378::902036949
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478630
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478630
+2 NOTE Age: 7; Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478630
+1 SOUR @S357533908@
+2 _APID 1,61378::902036949
+0 @I48114669225@ INDI
+1 NAME James N /Kidd/
+2 GIVN James N
+2 SURN Kidd
+2 SOUR @S_186887045@
+3 _APID 1,1788::367989915
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478633
+2 SOUR @S_186879411@
+3 _APID 1,2469::301529734
+2 SOUR @S_186862924@
+3 _APID 1,3146::3132889
+2 SOUR @S_186879302@
+3 PAGE Number: 280-30-0925; Issue State: Ohio; Issue Date: 1951
+3 _APID 1,3693::33111832
+2 SOUR @S357680234@
+3 _APID 1,60901::32526449
+1 NAME James Neal /Kidd Sr/
+2 GIVN James Neal
+2 SURN Kidd Sr
+2 SOUR @S_186879320@
+3 PAGE Certificate: 062808; Volume: 32945
+3 _APID 1,5763::4433954
+1 SEX M
+2 SOUR @S_186879411@
+3 _APID 1,2469::301529734
+2 SOUR @S357680234@
+3 _APID 1,60901::32526449
+1 FAMC @F39@
+1 FAMS @F29@
+1 BIRT
+2 DATE abt 1935
+2 PLAC Ohio
+2 SOUR @S_186887045@
+3 _APID 1,1788::367989915
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478633
+2 SOUR @S_186879302@
+3 PAGE Number: 280-30-0925; Issue State: Ohio; Issue Date: 1951
+3 _APID 1,3693::33111832
+2 SOUR @S357680234@
+3 _APID 1,60901::32526449
+1 BIRT
+2 DATE 27 Jan 1935
+2 PLAC Marietta, Washington, Ohio, United States
+2 SOUR @S_186879320@
+3 PAGE Certificate: 062808; Volume: 32945
+3 _APID 1,5763::4433954
+1 BIRT
+2 DATE 27 Jan 1935
+2 PLAC Washington, Ohio, United States
+2 SOUR @S_186862924@
+3 _APID 1,3146::3132889
+1 RESI
+2 DATE 1935
+2 PLAC Newark, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478633
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478633
+2 NOTE Age: 5; Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 1960
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::301529734
+1 RESI
+2 DATE 1990
+2 PLAC Newark, OH
+2 SOUR @S_186887045@
+3 _APID 1,1788::367989915
+1 RESI
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186879320@
+3 PAGE Certificate: 062808; Volume: 32945
+3 _APID 1,5763::4433954
+2 NOTE Marital Status: Married
+1 DEAT
+2 DATE 11 Aug 2001
+2 PLAC Columbus, Franklin, Ohio, United States
+2 SOUR @S_186879302@
+3 PAGE Number: 280-30-0925; Issue State: Ohio; Issue Date: 1951
+3 _APID 1,3693::33111832
+2 SOUR @S_186879320@
+3 PAGE Certificate: 062808; Volume: 32945
+3 _APID 1,5763::4433954
+2 SOUR @S357680234@
+3 _APID 1,60901::32526449
+2 NOTE Age: 66
+1 SOUR @S_186887045@
+2 _APID 1,1788::367989915
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478633
+1 SOUR @S_186879411@
+2 _APID 1,2469::301529734
+1 SOUR @S_186862924@
+2 _APID 1,3146::3132889
+1 SOUR @S_186879302@
+2 PAGE Number: 280-30-0925; Issue State: Ohio; Issue Date: 1951
+2 _APID 1,3693::33111832
+1 SOUR @S_186879320@
+2 PAGE Certificate: 062808; Volume: 32945
+2 _APID 1,5763::4433954
+1 SOUR @S357680234@
+2 _APID 1,60901::32526449
+0 @I48114669227@ INDI
+1 NAME Sue Sam /Kidd/
+2 GIVN Sue Sam
+2 SURN Kidd
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478637
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE abt 1939
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478637
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+3 _APID 1,2442::36478637
+2 NOTE Age: 1; Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3098; Page: 8A; Enumeration District: 45-28
+2 _APID 1,2442::36478637
+0 @I48114890003@ INDI
+1 NAME Kathy /Kidd/
+2 GIVN Kathy
+2 SURN Kidd
+1 SEX F
+1 FAMC @F17@
+1 FAMS @F42@
+1 BIRT
+2 PLAC Newark, Licking, Ohio
+1 DEAT
+2 PLAC 2013
+0 @I48115275658@ INDI
+1 NAME Ephriam /Kidd/
+2 GIVN Ephriam
+2 SURN Kidd
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291308
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F33@
+1 FAMS @F32@
+1 BIRT
+2 DATE Mar 1833
+2 PLAC Kentucky
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291308
+1 BIRT
+2 DATE 4 Mar 1832
+2 PLAC Greenup, Greenup, Kentucky, United States
+1 RESI
+2 DATE 1900
+2 PLAC Marshall, Platte, Missouri, USA
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291308
+2 NOTE Age: 67; Marital Status: Married; Relation to Head of House: Head
+1 DEAT
+2 DATE 31 Jul 1913
+2 PLAC Franklin, Franklin, Ohio, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 758706940:1030:4467453
+1 SOUR @S_186812392@
+2 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+2 _APID 1,7602::30291308
+0 @I48115275659@ INDI
+1 NAME Jane /Kidd/
+2 GIVN Jane
+2 SURN Kidd
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291309
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE Feb 1855
+2 PLAC Indiana
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291309
+1 RESI
+2 DATE 1900
+2 PLAC Marshall, Platte, Missouri, USA
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _APID 1,7602::30291309
+2 NOTE Age: 45; Marital Status: Married; Relation to Head of House: Wife
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 1376774594:1030:4467453
+1 SOUR @S_186812392@
+2 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+2 _APID 1,7602::30291309
+0 @I48115276995@ INDI
+1 NAME Jesse /Kidd/
+2 GIVN Jesse
+2 SURN Kidd
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SEX M
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 BIRT
+2 DATE 1810
+2 PLAC Virginia (West Virginia)
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 DEAT
+2 DATE 3/15/1880
+2 PLAC Lewis Co., Kentucky
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Trees
+2 _APID 904578446:1030:4467453
+0 @I48115277185@ INDI
+1 NAME Jesse /Kidd/
+2 GIVN Jesse
+2 SURN Kidd
+1 NAME Jessie /Kidd/
+2 GIVN Jessie
+2 SURN Kidd
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F37@
+1 FAMS @F15@
+1 BIRT
+2 DATE 1810
+2 PLAC Virginia (West Virginia)
+1 BIRT
+2 DATE 6 Jun 1809
+2 PLAC Virginia, United States
+1 BIRT
+2 DATE 06 JUN 1809
+2 PLAC Virginia (West Virginia)
+1 BIRT
+2 DATE 6 Jun 1809
+2 PLAC Franklin, Virginia, United States, 
+1 DEAT
+2 DATE 3/15/1880
+2 PLAC Lewis Co., Kentucky
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 849171074:1030:16371917
+2 _APID 904578446:1030:4467453
+2 _APID 1270100683:1030:15009481
+2 _APID 19534810246:1030:18231912
+0 @I48115277186@ INDI
+1 NAME Nellie Phoebe /Goble/
+2 GIVN Nellie Phoebe
+2 SURN Goble
+1 SEX F
+1 FAMC @F51@
+1 FAMS @F37@
+1 BIRT
+2 DATE 1812
+1 DEAT
+2 DATE 1839
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 849178881:1030:16371917
+2 _APID 904578450:1030:4467453
+2 _APID 1270100685:1030:15009481
+0 @I48115277189@ INDI
+1 NAME Henrietta /Lanthorn/
+2 GIVN Henrietta
+2 SURN Lanthorn
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 1826
+2 PLAC Lawrence Co., Ohio, 
+1 DEAT
+2 DATE 1863
+2 PLAC Kentucky, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 758706946:1030:4467453
+0 @I48115278092@ INDI
+1 NAME George /Kidd/
+2 GIVN George
+2 SURN Kidd
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SEX M
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 BIRT
+2 DATE 1777
+2 PLAC Buckingham, Buckingham, Virginia, United States
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 DEAT
+2 DATE 1870
+2 PLAC Greenup, Greenup, Kentucky, United States
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Trees
+2 _APID 904648028:1030:4467453
+0 @I48115278164@ INDI
+1 NAME Lydia /Chiles/
+2 GIVN Lydia
+2 SURN Chiles
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SEX F
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 BIRT
+2 DATE 1778
+2 PLAC Virginia, United States
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 DEAT
+2 DATE 1870
+2 SOUR @S_186862845@
+3 PAGE Ancestry Family Trees
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Trees
+2 _APID 904648033:1030:4467453
+0 @I48115332272@ INDI
+1 NAME Abraham /Goble/
+2 GIVN Abraham
+2 SURN Goble
+1 SEX M
+1 FAMS @F51@
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 19844559471:1030:16371917
+0 @I48115332731@ INDI
+1 NAME George /Kidd/
+2 GIVN George
+2 SURN Kidd
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F14@
+1 BIRT
+2 DATE 1777
+2 PLAC Buckingham, Buckingham, Virginia, United States
+1 DEAT
+2 DATE 1870
+2 PLAC Greenup, Greenup, Kentucky, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 19534712310:1030:18231912
+2 _APID 20398633158:1030:17184222
+0 @I48115332732@ INDI
+1 NAME Lydia /Chiles/
+2 GIVN Lydia
+2 SURN Chiles
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 1778
+2 PLAC Warm Springs, Bath, Virginia, United States
+1 DEAT
+2 DATE 1870
+2 PLAC Greenup, Greenup, Kentucky, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 19534715887:1030:18231912
+2 _APID 20398633162:1030:17184222
+0 @I48115332733@ INDI
+1 NAME Hannah /Ditty/
+2 GIVN Hannah
+2 SURN Ditty
+1 SEX F
+1 FAMS @F15@
+1 BIRT
+2 DATE 16 September 1825
+2 PLAC Virginia
+1 DEAT
+2 DATE 9 January 1900
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+0 @I48115333799@ INDI
+1 NAME James /Kidd/
+2 GIVN James
+2 SURN Kidd
+2 SOUR @S_186809564@
+3 PAGE Year: 1810; Census Place: Urbanna, Middlesex, Virginia; Roll: 69; Page: 466; Image: 0181429; Family History Library Film: 00766
+3 _APID 1,7613::680396
+1 NAME James //
+2 GIVN James
+2 SOUR @S_186810376@
+3 _APID 1,4306::2824
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F26@
+1 FAMS @F28@
+1 FAMS @F27@
+1 BIRT
+2 DATE 10 Feb 1736
+2 PLAC Christchurch, Middlesex, Virginia, USA
+1 BIRT
+2 DATE 10 Feb 1736
+2 PLAC Middlesex, Virginia
+2 SOUR @S_186810376@
+3 _APID 1,4306::2824
+1 BAPM
+2 DATE 04 Mar 1736
+2 SOUR @S_186810376@
+3 _APID 1,4306::2824
+2 NOTE Age: 0
+1 RESI
+2 DATE 1810
+2 PLAC Urbanna, Middlesex, Virginia, United States
+2 SOUR @S_186809564@
+3 PAGE Year: 1810; Census Place: Urbanna, Middlesex, Virginia; Roll: 69; Page: 466; Image: 0181429; Family History Library Film: 00766
+3 _APID 1,7613::680396
+1 DEAT
+2 DATE 1816
+2 PLAC Wilkinson, Georgia, USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 904737920:1030:4467453
+2 _APID 13883643832:1030:13287121
+2 _APID 19326952294:1030:14961324
+2 _APID 19534810242:1030:18231912
+2 _APID 20398635195:1030:17184222
+1 SOUR @S_186810376@
+2 _APID 1,4306::2824
+1 SOUR @S_186809564@
+2 PAGE Year: 1810; Census Place: Urbanna, Middlesex, Virginia; Roll: 69; Page: 466; Image: 0181429; Family History Library Film: 00766
+2 _APID 1,7613::680396
+0 @I48115333800@ INDI
+1 NAME Elizabeth /Hudson/
+2 GIVN Elizabeth
+2 SURN Hudson
+1 NAME Winifred Elizabeth /Hudson/
+2 GIVN Winifred Elizabeth
+2 SURN Hudson
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F26@
+1 BIRT
+2 DATE 1740
+2 PLAC Middlesex, Virginia, USA
+1 BIRT
+2 DATE 1745
+2 PLAC Mecklenburg, Virginia, United States
+1 DEAT
+2 DATE 1785
+2 PLAC Virginia, USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 904737926:1030:4467453
+2 _APID 13883643836:1030:13287121
+2 _APID 19326957573:1030:14961324
+2 _APID 19534810243:1030:18231912
+2 _APID 20398635196:1030:17184222
+0 @I48115334817@ INDI
+1 NAME Frances /Robertson/
+2 GIVN Frances
+2 SURN Robertson
+1 SEX F
+1 FAMS @F27@
+1 BIRT
+2 DATE 20 Mar 1769
+2 PLAC Mecklenburg, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 904808239:1030:4467453
+0 @I48115334819@ INDI
+1 NAME Morning Mary /Parish/
+2 GIVN Morning Mary
+2 SURN Parish
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F28@
+1 FAMS @F3@
+1 BIRT
+2 DATE 1738
+2 PLAC Virginia, United States
+1 BIRT
+2 DATE 1738
+2 PLAC Middlesex, Virginia, United States
+1 DEAT
+2 DATE 1793
+2 PLAC Halifax, Halifax, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 904807414:1030:4467453
+2 _APID 13883651429:1030:13287121
+2 _APID 18653100082:1030:33730281
+0 @I48115341648@ INDI
+1 NAME Direll /Kidd/
+2 GIVN Direll
+2 SURN Kidd
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F23@
+1 BIRT
+2 DATE 11 Mar 1711
+2 PLAC Christ Church, Middlesex, Virginia, United States
+1 BIRT
+2 DATE 1711
+2 PLAC Christ Church, Middlesex, Virginia, United States
+1 DEAT
+2 DATE 1793
+2 PLAC Middlesex, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -575591554:1030:1830671
+2 _APID 904807237:1030:4467453
+2 _APID 13883651215:1030:13287121
+0 @I48115341649@ INDI
+1 NAME Mary /Sorrow/
+2 GIVN Mary
+2 SURN Sorrow
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F23@
+1 BIRT
+2 DATE 1711
+2 PLAC Middlesex, Virginia, United States
+1 MARR
+2 DATE 13 Jul 1736
+1 DEAT
+2 DATE 1784
+2 PLAC Middlesex, Tennessee, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 269357011:1030:1830671
+2 _APID 922577346:1030:15874091
+2 _APID 13883651221:1030:13287121
+0 @I48115341999@ INDI
+1 NAME John /Deuce/
+2 GIVN John
+2 SURN Deuce
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE Jan 1695
+2 PLAC Worcester, Worcestershire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 1919835006:1030:15874091
+0 @I48115342000@ INDI
+1 NAME Ann /White/
+2 GIVN Ann
+2 SURN White
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 19 Feb 1695
+2 PLAC Chaddesley Corbett, Worcester, England
+1 DEAT
+2 PLAC Middlesex, Virginia, USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 1919835041:1030:15874091
+0 @I48115344661@ INDI
+1 NAME WILLIAM /KIDD/
+2 GIVN WILLIAM
+2 SURN KIDD
+2 SOUR @S_186809047@
+3 _APID 1,5769::2550220
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F41@
+1 BIRT
+2 DATE 3-22-1675
+2 PLAC MIDDLESEX,VA
+1 BIRT
+2 DATE 3-22-1675
+2 PLAC Christ Church,Middlesex,Virginia,USA
+1 BIRT
+2 DATE 3-22-1675
+2 PLAC VA, USA
+2 SOUR @S_186809047@
+3 _APID 1,5769::2550220
+1 DEAT
+2 DATE 4-29-1727
+2 PLAC MIDDLESEX, VA.
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -1607418234:1030:2776165
+2 _APID -575635385:1030:1830671
+1 SOUR @S_186809047@
+2 _APID 1,5769::2550220
+0 @I48115344662@ INDI
+1 NAME MARGARET /CHOWNING/
+2 GIVN MARGARET
+2 SURN CHOWNING
+1 SEX F
+1 FAMS @F41@
+1 BIRT
+2 DATE 1685
+2 PLAC VA.USA
+1 DEAT
+2 DATE 3-24-1727
+2 PLAC MIDDLESEX, VA.
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -575615620:1030:1830671
+0 @I48115345950@ INDI
+1 NAME Thomas /Kidd/
+2 GIVN Thomas
+2 SURN Kidd
+1 SEX M
+1 FAMC @F52@
+1 FAMS @F38@
+1 BIRT
+2 DATE 8 Jan 1626
+2 PLAC Soham Parrish,,Cambridgeshire,England
+1 DEAT
+2 DATE 28 May 1680
+2 PLAC Rappannock River,Middlesex,Virginia,USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -1753351060:1030:2776165
+0 @I48115345951@ INDI
+1 NAME Jane Vizt /Willis/
+2 GIVN Jane Vizt
+2 SURN Willis
+1 NAME Jane Vizt / (Willis) Kidd/
+2 GIVN Jane Vizt
+2 SURN  (Willis) Kidd
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F38@
+1 BIRT
+2 DATE 1635
+2 PLAC Middlesex, Virginia, USA
+1 DEAT
+2 DATE 1680
+2 PLAC Middlesex Cty,,Virginia,USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -1753351061:1030:2776165
+2 _APID 18898800404:1030:36204817
+0 @I48115355010@ INDI
+1 NAME Richard /Willis/
+2 GIVN Richard
+2 SURN Willis
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F36@
+1 BIRT
+2 DATE 1600
+2 PLAC Cambridgeshire, England
+1 DEAT
+2 DATE 26 Oct 1660
+2 PLAC Lancaster, Middlesex, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18898800434:1030:36204817
+2 _APID 19099394304:1030:37235699
+0 @I48115355014@ INDI
+1 NAME Jane /(Henmarsh) Willis/
+2 GIVN Jane
+2 SURN (Henmarsh) Willis
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F36@
+1 BIRT
+2 DATE 1603
+2 PLAC Charing, Kent, England
+1 DEAT
+2 DATE 12 Mar 1629
+2 PLAC Middlesex, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18898800435:1030:36204817
+0 @I48115355624@ INDI
+1 NAME Richard /Wyllys/
+2 GIVN Richard
+2 SURN Wyllys
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F8@
+1 BIRT
+2 DATE 1573
+2 PLAC Fenny Compton, Warwickshire, England
+1 DEAT
+2 DATE Jun 10, 1597
+2 PLAC Fenny Compton, Warwickshire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -312906535:1030:10482209
+2 _APID 19099501173:1030:37235699
+0 @I48115355625@ INDI
+1 NAME Hester /(Chambers)  Wyllys/
+2 GIVN Hester
+2 SURN (Chambers)  Wyllys
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 1567
+2 PLAC Williamscote, Oxfordshire, England
+1 DEAT
+2 DATE Aug  1597
+2 PLAC Fenny Compton, Warwickshire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID -312906518:1030:10482209
+2 _APID 19099422398:1030:37235699
+0 @I48115355772@ INDI
+1 NAME William /Henmarsh/
+2 GIVN William
+2 SURN Henmarsh
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 1544
+2 PLAC Chartham, Kent, England
+1 DEAT
+2 DATE 29 Mar 1614
+2 PLAC Hertfordshire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18898800457:1030:36204817
+0 @I48115355774@ INDI
+1 NAME Katharine /(Honywood) Henmarsh/
+2 GIVN Katharine
+2 SURN (Honywood) Henmarsh
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 19 Dec 1546
+2 PLAC Chartham, Kent, England
+1 DEAT
+2 DATE 1585
+2 PLAC Lancaster, Lancaster, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18898800458:1030:36204817
+0 @I48115356035@ INDI
+1 NAME Ambrosius /Wyllys/
+2 GIVN Ambrosius
+2 SURN Wyllys
+1 SEX M
+1 FAMS @F35@
+1 BIRT
+2 DATE 1533
+2 PLAC Fenny Compton, Warwickshire, England
+1 DEAT
+2 DATE 21 Nov 1590
+2 PLAC Fenny Compton, Warwickshire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 579888503:1030:10482209
+0 @I48115356036@ INDI
+1 NAME Agneta /Coles/
+2 GIVN Agneta
+2 SURN Coles
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE 1535
+2 PLAC Compton, Warwickshire, England
+1 DEAT
+2 DATE 1572
+2 PLAC Fenny Compton, Warwickshire, England
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 579888528:1030:10482209
+0 @I48118464021@ INDI
+1 NAME Robert /Hudson/
+2 GIVN Robert
+2 SURN Hudson
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE 1697
+2 PLAC Northumberland, Virginia, USA
+1 DEAT
+2 DATE 1757
+2 PLAC Northumberland, Virginia, USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 19565984801:1030:14961324
+0 @I48118464022@ INDI
+1 NAME Easter\Esther //
+2 GIVN Easter\Esther
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 1700
+2 PLAC Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 19565984804:1030:14961324
+0 @I48118464155@ INDI
+1 NAME Henry /Parish/
+2 GIVN Henry
+2 SURN Parish
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE 1706
+2 PLAC Virginia, USA
+1 BIRT
+2 DATE 27 Apr 1701
+2 PLAC St Peters, New Kent, Virginia, United States
+1 DEAT
+2 DATE 20 Nov 1753
+2 PLAC Goochland, Virginia, USA
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18706046174:1030:33730281
+2 _APID 19286355689:1030:38798682
+0 @I48118464156@ INDI
+1 NAME Mary Margaret /Bridges/
+2 GIVN Mary Margaret
+2 SURN Bridges
+1 NAME Mary Margaret /Atkinson/
+2 GIVN Mary Margaret
+2 SURN Atkinson
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 1716
+2 PLAC Virginia, USA
+1 BIRT
+2 DATE 15 Mar 1705
+2 PLAC Culpepper, Virginia, United States
+1 DEAT
+2 DATE 1731
+2 PLAC Culpeper, Virginia
+1 DEAT
+2 DATE 1731
+2 PLAC Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18706046179:1030:33730281
+2 _APID 19286355695:1030:38798682
+0 @I48118464157@ INDI
+1 NAME James /Kidd/
+2 GIVN James
+2 SURN Kidd
+1 SEX M
+1 FAMS @F3@
+1 BIRT
+2 DATE 4 Mar 1734
+2 PLAC Albemarle, Virginia, United States
+1 DEAT
+2 DATE 27 Oct 1800
+2 PLAC Halifax, Halifax, Virginia, United States
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 18653100076:1030:33730281
+0 @I170063353597@ INDI
+1 NAME Don R /Burgess/
+2 GIVN Don R
+2 SURN Burgess
+2 SOUR @S_186879411@
+3 _APID 1,2469::279612598
+2 SOUR @S_186862924@
+3 _APID 1,3146::1199130
+3 _APID 1,3146::1199151
+2 SOUR @S357533908@
+3 _APID 1,61378::1623808
+3 _APID 1,61378::2060225
+1 SEX M
+1 FAMC @F46@
+1 FAMC @F47@
+1 FAMS @F6@
+1 BIRT
+2 DATE abt 1920
+2 PLAC Perry, Ohio, United States
+2 SOUR @S_186862924@
+3 _APID 1,3146::1199130
+3 _APID 1,3146::1199151
+2 SOUR @S357533908@
+3 _APID 1,61378::2060225
+1 RESI
+2 DATE 1948
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::279612598
+1 SOUR @S_186879411@
+2 _APID 1,2469::279612598
+1 SOUR @S_186862924@
+2 _APID 1,3146::1199130
+2 _APID 1,3146::1199151
+1 SOUR @S357533908@
+2 _APID 1,61378::1623808
+2 _APID 1,61378::2060225
+0 @I170063353826@ INDI
+1 NAME William Howard /Ritchey/
+2 GIVN William Howard
+2 SURN Ritchey
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899540
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479974
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378478
+2 SOUR @S357534555@
+3 _APID 1,60525::123628358
+2 SOUR @S357533908@
+3 _APID 1,61378::1352060225
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F30@
+1 BIRT
+2 DATE abt 1880
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899540
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479974
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378478
+2 SOUR @S357534555@
+3 _APID 1,60525::123628358
+1 RESI
+2 DATE 1920
+2 PLAC Columbus Ward 1, Franklin, Ohio, USA
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479974
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1930
+2 PLAC Hanover, Licking, Ohio
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378478
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1935
+2 PLAC Hanover, Licking, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899540
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899540
+2 NOTE Marital Status: Widowed; Relation to Head of House: Head
+1 DEAT
+2 DATE 24 July 1941
+2 PLAC Columbus, Franklin County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::123628358
+1 BURI
+2 PLAC Hanover, Licking County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::123628358
+1 SOUR @S_186862845@
+2 PAGE Ancestry Family Tree
+2 _APID 30421771032:1030:80488530
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+2 _APID 1,2442::35899540
+1 SOUR @S357534442@
+2 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+2 _APID 1,6061::33479974
+1 SOUR @S357534699@
+2 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+2 _APID 1,6224::71378478
+1 SOUR @S357534555@
+2 _APID 1,60525::123628358
+1 SOUR @S357533908@
+2 _APID 1,61378::1352060225
+0 @I170063353827@ INDI
+1 NAME Mary C /(Shy ) Ritchey/
+2 GIVN Mary C
+2 SURN (Shy ) Ritchey
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899542
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479975
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378500
+2 SOUR @S357533908@
+3 _APID 1,61378::1502060225
+1 SEX F
+1 FAMS @F30@
+1 BIRT
+2 DATE abt 1899
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899542
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479975
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378500
+1 RESI
+2 DATE 1920
+2 PLAC Columbus Ward 1, Franklin, Ohio, USA
+2 SOUR @S357534442@
+3 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+3 _APID 1,6061::33479975
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1930
+2 PLAC Hanover, Licking, Ohio
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378500
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1935
+2 PLAC Hanover, Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899542
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899542
+2 NOTE Marital Status: Widowed; Relation to Head of House: Wife
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+2 _APID 1,2442::35899542
+1 SOUR @S357534442@
+2 PAGE Year: 1920; Census Place: Columbus Ward 1, Franklin, Ohio; Roll: T625_1380; Page: 3B; Enumeration District: 33; Image: 492
+2 _APID 1,6061::33479975
+1 SOUR @S357534699@
+2 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+2 _APID 1,6224::71378500
+1 SOUR @S357533908@
+2 _APID 1,61378::1502060225
+0 @I170063355214@ INDI
+1 NAME William /Ritchey/
+2 GIVN William
+2 SURN Ritchey
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899548
+1 SEX M
+1 FAMC @F30@
+1 BIRT
+2 DATE abt 1922
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899548
+1 RESI
+2 DATE 1935
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899548
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899548
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+2 _APID 1,2442::35899548
+0 @I170063355215@ INDI
+1 NAME Catherine /Ritchey/
+2 GIVN Catherine
+2 SURN Ritchey
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899550
+1 SEX F
+1 FAMC @F30@
+1 BIRT
+2 DATE abt 1924
+2 PLAC Ohio
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899550
+1 RESI
+2 DATE 1935
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899550
+1 RESI
+2 DATE 1 Apr 1940
+2 PLAC Newark, Licking, Ohio, USA
+2 SOUR @S_186862930@
+3 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+3 _APID 1,2442::35899550
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S_186862930@
+2 PAGE Year: 1940; Census Place: Newark, Licking, Ohio; Roll: T627_3099; Page: 16B; Enumeration District: 45-43
+2 _APID 1,2442::35899550
+0 @I170063355433@ INDI
+1 NAME Charles William /Ritchey/
+2 GIVN Charles William
+2 SURN Ritchey
+2 SOUR @S357534555@
+3 _APID 1,60525::10585766
+1 SEX M
+1 FAMS @F18@
+1 BIRT
+2 DATE 7 April 1843
+2 PLAC Hanover, Licking County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::10585766
+1 DEAT
+2 DATE 1904
+2 PLAC Newark, Licking County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::10585766
+1 BURI
+2 PLAC Hanover, Licking County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::10585766
+1 SOUR @S357534555@
+2 _APID 1,60525::10585766
+0 @I170063355434@ INDI
+1 NAME Ella /(Kreigbaum) Ritchey/
+2 GIVN Ella
+2 SURN (Kreigbaum) Ritchey
+2 SOUR @S357534555@
+3 _APID 1,60525::10585817
+1 SEX F
+1 FAMS @F18@
+1 BIRT
+2 DATE 29 July 1851
+2 SOUR @S357534555@
+3 _APID 1,60525::10585817
+1 DEAT
+2 DATE 21 April 1926
+2 SOUR @S357534555@
+3 _APID 1,60525::10585817
+1 BURI
+2 PLAC Hanover, Licking County, Ohio, USA
+2 SOUR @S357534555@
+3 _APID 1,60525::10585817
+1 SOUR @S357534555@
+2 _APID 1,60525::10585817
+0 @I170063356969@ INDI
+1 NAME Cathaline /Ritchey/
+2 GIVN Cathaline
+2 SURN Ritchey
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378493
+1 SEX F
+1 FAMC @F30@
+1 BIRT
+2 DATE abt 1924
+2 PLAC Ohio
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378493
+1 RESI
+2 DATE 1930
+2 PLAC Hanover, Licking, Ohio
+2 SOUR @S357534699@
+3 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+3 _APID 1,6224::71378493
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S357534699@
+2 PAGE Year: 1930; Census Place: Hanover, Licking, Ohio; Roll: 1828; Page: 2B; Enumeration District: 0010; Image: 694.0; FHL microfilm: 2341562
+2 _APID 1,6224::71378493
+0 @I170063358147@ INDI
+1 NAME Jacob /Ligget/
+2 GIVN Jacob
+2 SURN Ligget
+1 SEX M
+1 FAMS @F31@
+0 @I170063358262@ INDI
+1 NAME Amber /Santee/
+2 GIVN Amber
+2 SURN Santee
+1 SEX F
+1 FAMS @F1@
+0 @I170063358348@ INDI
+1 NAME Courtne D /Maggard/
+2 GIVN Courtne D
+2 SURN Maggard
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::8472596
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1918155
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE abt 1977
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::8472596
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1918155
+1 DIV
+2 DATE 6 Aug 2007
+2 PLAC Licking
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1918155
+1 RESI
+2 PLAC Licking, Ohio, United States
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::8472596
+1 RESI
+2 PLAC Newark, Licking, Ohio, United States
+2 SOUR @S_186879533@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+3 _APID 1,2026::1918155
+1 SOUR @S_186886886@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+2 _APID 1,2025::8472596
+1 SOUR @S_186879533@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Divorce Index, 1962-1963, 1967-1971 and 1973-2007
+2 _APID 1,2026::1918155
+0 @I170063358439@ INDI
+1 NAME Brook /Calderwood/
+2 GIVN Brook
+2 SURN Calderwood
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::9902283
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE abt 1981
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::9902283
+1 RESI
+2 PLAC Licking, Ohio, United States
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _APID 1,2025::9902283
+1 SOUR @S_186886886@
+2 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+2 _APID 1,2025::9902283
+0 @I170063358718@ INDI
+1 NAME Ashley /Helmley/
+2 GIVN Ashley
+2 SURN Helmley
+1 SEX M
+1 FAMS @F12@
+0 @I170063360780@ INDI
+1 NAME Hazel /Johnson/
+2 GIVN Hazel
+2 SURN Johnson
+2 SOUR @S357533908@
+3 _APID 1,61378::901623808
+1 SEX F
+1 FAMS @F7@
+1 SOUR @S357533908@
+2 _APID 1,61378::901623808
+0 @I170063362110@ INDI
+1 NAME Vernon /Kidd/
+2 GIVN Vernon
+2 SURN Kidd
+2 SOUR @S357680404@
+3 _APID 1,1265::409849186
+3 _APID 1,1265::409849700
+2 SOUR @S_186887232@
+3 _APID 1,1732::315068687
+2 SOUR @S_186887045@
+3 _APID 1,1788::213035498
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 03/02/1943
+2 SOUR @S357680404@
+3 _APID 1,1265::409849186
+3 _APID 1,1265::409849700
+2 SOUR @S_186887232@
+3 _APID 1,1732::315068687
+2 SOUR @S_186887045@
+3 _APID 1,1788::213035498
+1 RESI
+2 DATE 1959
+2 PLAC Tulsa, Oklahoma, USA
+2 SOUR @S357680404@
+3 _APID 1,1265::409849186
+3 _APID 1,1265::409849700
+1 RESI
+2 DATE 1993
+2 PLAC Wichita Falls, TX
+2 SOUR @S_186887045@
+3 _APID 1,1788::213035498
+1 RESI
+2 PLAC Guyton, GA
+2 SOUR @S_186887232@
+3 _APID 1,1732::315068687
+1 DEAT
+2 DATE 01/14/2017
+1 SOUR @S357680404@
+2 _APID 1,1265::409849186
+2 _APID 1,1265::409849700
+1 SOUR @S_186887232@
+2 _APID 1,1732::315068687
+1 SOUR @S_186887045@
+2 _APID 1,1788::213035498
+0 @I170063406580@ INDI
+1 NAME Lori /Cooper/
+2 GIVN Lori
+2 SURN Cooper
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 PLAC New Jersey, USA
+0 @I170063406627@ INDI
+1 NAME Nancy /McCalpin/
+2 GIVN Nancy
+2 SURN McCalpin
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 PLAC New Jersey, USA
+0 @I170063406781@ INDI
+1 NAME Randy /Kidd/
+2 GIVN Randy
+2 SURN Kidd
+1 SEX M
+1 FAMC @F17@
+0 @I170063406904@ INDI
+1 NAME Bob /Kidd/
+2 GIVN Bob
+2 SURN Kidd
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F11@
+1 BIRT
+2 PLAC Ohio
+0 @I170064145526@ INDI
+1 NAME Ethel E /Kidd/
+2 GIVN Ethel E
+2 SURN Kidd
+2 SOUR @S_186887045@
+3 _APID 1,1788::315752387
+2 SOUR @S_186879411@
+3 _APID 1,2469::1106139327
+3 _APID 1,2469::1109397566
+1 SEX F
+2 SOUR @S_186879411@
+3 _APID 1,2469::1106139327
+3 _APID 1,2469::1109397566
+1 FAMS @F29@
+1 RESI
+2 DATE 1956
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::1106139327
+1 RESI
+2 DATE 1960
+2 PLAC Newark, Ohio, USA
+2 SOUR @S_186879411@
+3 _APID 1,2469::1109397566
+1 RESI
+2 DATE 1990
+2 PLAC Newark, OH
+2 SOUR @S_186887045@
+3 _APID 1,1788::315752387
+1 SOUR @S_186887045@
+2 _APID 1,1788::315752387
+1 SOUR @S_186879411@
+2 _APID 1,2469::1106139327
+2 _APID 1,2469::1109397566
+0 @I170064146771@ INDI
+1 NAME Thomas E /Johnson/
+2 GIVN Thomas E
+2 SURN Johnson
+2 SOUR @S357533908@
+3 _APID 1,61378::2036949
+1 SEX M
+2 SOUR @S357533908@
+3 _APID 1,61378::2036949
+1 FAMS @F34@
+1 BIRT
+2 DATE abt 1933
+2 SOUR @S357533908@
+3 _APID 1,61378::2036949
+1 SOUR @S357533908@
+2 _APID 1,61378::2036949
+0 @I170064147013@ INDI
+1 NAME Charles D /Woods/
+2 GIVN Charles D
+2 SURN Woods
+2 SOUR @S357533908@
+3 _APID 1,61378::4730392
+1 SEX M
+2 SOUR @S357533908@
+3 _APID 1,61378::4730392
+1 FAMS @F40@
+1 BIRT
+2 DATE abt 1930
+2 SOUR @S357533908@
+3 _APID 1,61378::4730392
+1 SOUR @S357533908@
+2 _APID 1,61378::4730392
+0 @I172234761444@ INDI
+1 NAME Wanda Lee /Kidd/
+2 GIVN Wanda Lee
+2 SURN Kidd
+2 SOUR @S357534555@
+3 _APID 1,60525::135979793
+1 FAMS @F20@
+1 BIRT
+2 DATE 2 January 1938
+2 PLAC Newark, Licking County, Ohio, United States of America
+2 SOUR @S357534555@
+3 _APID 1,60525::135979793
+1 DEAT
+2 DATE 9 May 1998
+2 SOUR @S357534555@
+3 _APID 1,60525::135979793
+1 BURI
+2 PLAC Rincon, Effingham County, Georgia, United States of America
+2 SOUR @S357534555@
+3 _APID 1,60525::135979793
+1 SOUR @S357534555@
+2 _APID 1,60525::135979793
+0 @I172437085698@ INDI
+1 NAME Capt . Rev. William Henry  II /Kidd/ Jr
+2 GIVN Capt . Rev. William Henry  II
+2 SURN Kidd
+2 NSFX Jr
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F52@
+1 BIRT
+2 DATE 6 Jul 1589
+2 PLAC Soham, Cambridgeshire, England
+1 MARR
+2 DATE 22 Nov 1621
+2 PLAC Soham, Cambridgeshire, , England
+1 MARR
+2 DATE 22 Nov 1621
+2 PLAC Soham,Cambridge,England
+1 MARR
+2 DATE 22 Nov 1625
+2 PLAC Soham, Parrish, Cambridge, England
+1 MARR
+2 DATE 22 Nov 1629
+2 PLAC Soham Parish, Cambridgeshire, England
+1 MARR
+2 PLAC Witherne, Lincolnshire, England
+1 DEAT
+2 DATE 31 March 1647
+2 PLAC Soham, East Cambridgeshire District, Cambridgeshire, England
+1 OBJE @O1@
+2 _PRIM Y
+0 @I172437085870@ INDI
+1 NAME Sir.  Knight William /Kidd/ Sr
+2 GIVN Sir.  Knight William
+2 SURN Kidd
+2 NSFX Sr
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 16 March 1558
+2 PLAC Soham, East Cambridgeshire District, Cambridgeshire, England
+1 MARR
+2 DATE 03 Oct 1575
+2 PLAC Chesterton, Cambridgeshire, England
+1 MARR
+2 DATE 03 Oct 1575
+2 PLAC Chesterton,Cambridge,England
+1 MARR
+2 DATE 06 Oct 1588
+2 PLAC Soham, Cambridgeshire, England
+1 MARR
+2 PLAC Witherne, Lincolnshire, England
+1 DEAT
+2 DATE circa 1639
+2 PLAC Soham, East Cambridgeshire District, Cambridgeshire, England
+1 OBJE @O4@
+2 _PRIM Y
+0 @I172437086074@ INDI
+1 NAME Lady Marion Josselyn  /(Liles)  Kidd/
+2 GIVN Lady Marion Josselyn 
+2 SURN (Liles)  Kidd
+1 SEX F
+1 FAMS @F10@
+1 BIRT
+2 DATE circa 1567
+2 PLAC Cambridge, Cambridgeshire, England, United Kingdom
+1 MARR
+2 DATE 03 Oct 1575
+2 PLAC Cambridge, Cambridgeshire, England
+1 MARR
+2 DATE 3 October 1575
+1 MARR
+2 DATE 10 Jun 1588
+2 PLAC Soham, Cambridgeshire, England
+1 MARR
+2 PLAC Soham, Cambridgeshire, England
+1 DEAT
+2 DATE circa 1642
+2 PLAC Soham, Cambridgeshire, England
+0 @I172539197613@ INDI
+1 NAME Francis Ray /Milum/
+2 GIVN Francis Ray
+2 SURN Milum
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 DATE 28 Jul 1916
+2 PLAC Clinton, Knox, Ohio, USA
+1 DEAT
+2 DATE 19 Apr 1971
+2 PLAC Licking, Ohio, USA
+1 BURI
+2 PLAC Lock, Licking County, Ohio, United States of America
+1 OBJE @O3@
+2 _PRIM Y
+0 @I172539197694@ INDI
+1 NAME Betty Louise /Edwards/
+2 GIVN Betty Louise
+2 SURN Edwards
+1 SEX F
+1 FAMS @F45@
+1 BIRT
+2 DATE 29 Sep 1919
+2 PLAC Ohio
+1 DEAT
+2 DATE 8 December 1974
+1 BURI
+2 PLAC Lock, Licking County, Ohio, United States of America
+1 OBJE @O2@
+2 _PRIM Y
+0 @I172539197775@ INDI
+1 NAME Harry Clyde /Burgess/
+2 GIVN Harry Clyde
+2 SURN Burgess
+1 SEX M
+1 FAMS @F46@
+1 BIRT
+2 DATE 23 Sep 1895
+2 PLAC Gore Falls, Hicking, Ohio, USA
+1 DEAT
+2 DATE 7 Jul 1971
+2 PLAC Dayton, Montgomery, Ohio, USA
+0 @I172539197783@ INDI
+1 NAME Myrle Louise /Achauer/
+2 GIVN Myrle Louise
+2 SURN Achauer
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 16 Apr 1897
+2 PLAC New Straitsville, Perry, Ohio, USA
+1 DEAT
+2 DATE 28 May 1972
+2 PLAC Newark, Licking County, Ohio, USA
+0 @I172539197913@ INDI
+1 NAME Benjamin /Kidd/
+2 GIVN Benjamin
+2 SURN Kidd
+1 SEX M
+1 FAMC @F49@
+1 FAMC @F50@
+1 BIRT
+2 DATE 19 Jan 2021
+0 @I172539197961@ INDI
+1 NAME Grace /Hendricks /
+2 GIVN Grace
+2 SURN Hendricks 
+1 SEX F
+1 FAMS @F50@
+0 @I172565249901@ INDI
+1 NAME Jeremy  /Davis/
+2 GIVN Jeremy 
+2 SURN Davis
+1 SEX M
+1 FAMC @F42@
+0 @I172565249937@ INDI
+1 NAME Steve /Jewell/
+2 GIVN Steve
+2 SURN Jewell
+1 SEX M
+1 FAMC @F42@
+0 @I172565249961@ INDI
+1 NAME Johnny /Kidd/
+2 GIVN Johnny
+2 SURN Kidd
+1 SEX M
+1 FAMC @F42@
+0 @I172565249985@ INDI
+1 NAME Joanie  /Kidd/
+2 GIVN Joanie 
+2 SURN Kidd
+1 SEX F
+1 FAMS @F11@
+0 @I172565250060@ INDI
+1 NAME Chris /Kidd/
+2 GIVN Chris
+2 SURN Kidd
+1 SEX M
+1 FAMC @F11@
+0 @I172565250092@ INDI
+1 NAME Michelle /Kidd/
+2 GIVN Michelle
+2 SURN Kidd
+1 SEX F
+1 FAMC @F11@
+0 @I172565250130@ INDI
+1 NAME Lisa /Clifton/
+2 GIVN Lisa
+2 SURN Clifton
+1 SEX F
+1 FAMC @F48@
+0 @I172565250183@ INDI
+1 NAME Maverik /Kidd/
+2 GIVN Maverik
+2 SURN Kidd
+1 SEX M
+1 FAMC @F31@
+0 @I172565250274@ INDI
+1 NAME Zavien /Kidd/
+2 GIVN Zavien
+2 SURN Kidd
+1 SEX M
+1 FAMC @F53@
+0 @I172565250479@ INDI
+1 NAME Sherry /Johnson /
+2 GIVN Sherry
+2 SURN Johnson 
+1 SEX F
+1 FAMS @F21@
+0 @I172565250497@ INDI
+1 NAME David /Johnson/
+2 GIVN David
+2 SURN Johnson
+1 SEX M
+1 FAMC @F21@
+0 @I172565250527@ INDI
+1 NAME Steven /Johnson /
+2 GIVN Steven
+2 SURN Johnson 
+1 SEX M
+1 FAMC @F21@
+0 @I172565250571@ INDI
+1 NAME Julie /Johnson /
+2 GIVN Julie
+2 SURN Johnson 
+1 SEX F
+1 FAMC @F21@
+0 @I172565283919@ INDI
+1 NAME Annie /Goslin/
+2 GIVN Annie
+2 SURN Goslin
+1 FAMC @F43@
+0 @I172565283952@ INDI
+1 NAME Robin /Kidd/
+2 GIVN Robin
+2 SURN Kidd
+1 FAMC @F43@
+0 @I172565284153@ INDI
+1 NAME Duwaine /Burgess/
+2 GIVN Duwaine
+2 SURN Burgess
+1 FAMC @F6@
+0 @I172565284369@ INDI
+1 NAME Chad /Kidd/
+2 GIVN Chad
+2 SURN Kidd
+1 SEX M
+1 FAMC @F20@
+0 @F1@ FAM
+1 HUSB @I48114428674@
+1 WIFE @I170063358262@
+1 CHIL @I48114430014@
+1 CHIL @I48114430023@
+0 @F2@ FAM
+1 HUSB @I48118464155@
+1 WIFE @I48118464156@
+1 CHIL @I48115334819@
+1 MARR
+2 DATE 1731
+2 PLAC Goochland, Goochland, Virginia, United States
+0 @F3@ FAM
+1 HUSB @I48118464157@
+1 WIFE @I48115334819@
+1 MARR
+2 DATE 19 Oct 1755
+2 PLAC Douglas Register, Goochland, Virginia, United States
+0 @F4@ FAM
+1 HUSB @I48114429144@
+1 WIFE @I48114428515@
+1 CHIL @I48114427813@
+1 CHIL @I48114428674@
+1 CHIL @I48114428611@
+0 @F5@ FAM
+1 HUSB @I48114429144@
+1 WIFE @I48114506993@
+1 CHIL @I48114429779@
+0 @F6@ FAM
+1 HUSB @I170063353597@
+1 WIFE @I48114429912@
+1 CHIL @I48114428515@
+1 CHIL @I48114508122@
+1 CHIL @I172565284153@
+1 MARR
+2 DATE 18 Apr 1948
+2 PLAC Licking, Ohio, USA
+2 SOUR @S357533908@
+3 _HPID 1,61378::1623808
+3 _HPID 1,61378::2060225
+3 _WPID 1,61378::902060225
+0 @F7@ FAM
+1 HUSB @I170063360780@
+1 WIFE @I48114429912@
+1 MARR
+2 DATE 18 Apr 1948
+2 PLAC Licking, Ohio, USA
+2 SOUR @S357533908@
+3 _WPID 1,61378::1623808
+3 _HPID 1,61378::901623808
+0 @F8@ FAM
+1 HUSB @I48115355624@
+1 WIFE @I48115355625@
+1 CHIL @I48115355010@
+1 MARR
+2 DATE Nov 28, 1588
+2 PLAC Warwickshire, England
+1 MARR
+2 DATE 28 Nov 1838
+2 PLAC Stoke, Warwickshire, , England
+1 MARR
+2 PLAC 1679106, Warwickshire, England
+0 @F9@ FAM
+1 HUSB @I48118464021@
+1 WIFE @I48118464022@
+1 CHIL @I48115333800@
+1 MARR
+2 DATE 1719
+0 @F10@ FAM
+1 HUSB @I172437085870@
+1 WIFE @I172437086074@
+1 CHIL @I172437085698@
+0 @F11@ FAM
+1 HUSB @I170063406904@
+1 WIFE @I172565249985@
+1 CHIL @I172565250092@
+1 CHIL @I172565250060@
+0 @F12@ FAM
+1 HUSB @I170063358718@
+1 WIFE @I48114429779@
+1 CHIL @I48114505473@
+1 CHIL @I48114505415@
+1 CHIL @I48114431623@
+0 @F13@ FAM
+1 HUSB @I48115355772@
+1 WIFE @I48115355774@
+1 CHIL @I48115355014@
+0 @F14@ FAM
+1 HUSB @I48115332731@
+1 WIFE @I48115332732@
+1 CHIL @I48115277185@
+1 MARR
+2 DATE 17 APR 1805
+2 PLAC Franklin, Virginia, United States
+0 @F15@ FAM
+1 HUSB @I48115277185@
+1 WIFE @I48115332733@
+1 MARR
+2 DATE 28 FEB 1841
+2 PLAC Lawrence, Lawrence, Ohio, United States
+0 @F16@ FAM
+1 HUSB @I48114427813@
+1 WIFE @I170063406627@
+1 CHIL @I48114430142@
+0 @F17@ FAM
+1 HUSB @I48114429859@
+1 WIFE @I48114507461@
+1 CHIL @I48114429144@
+1 CHIL @I170063406781@
+1 CHIL @I48114890003@
+1 MARR
+2 DATE 8 Jun 1953
+2 PLAC Licking, Ohio, USA
+2 SOUR @S357533908@
+3 _HPID 1,61378::4718447
+3 _WPID 1,61378::904718447
+0 @F18@ FAM
+1 HUSB @I170063355433@
+1 WIFE @I170063355434@
+1 CHIL @I170063353826@
+0 @F19@ FAM
+1 HUSB @I48114428611@
+1 WIFE @I170063358439@
+1 CHIL @I48114429616@
+1 CHIL @I48114429726@
+1 MARR
+2 DATE 22 Mar 2003
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _HPID 1,2025::2926634
+3 _WPID 1,2025::9902283
+0 @F20@ FAM
+1 HUSB @I48114429859@
+1 WIFE @I172234761444@
+1 CHIL @I172565284369@
+0 @F21@ FAM
+1 HUSB @I48114507820@
+1 WIFE @I172565250479@
+1 CHIL @I172565250571@
+1 CHIL @I172565250527@
+1 CHIL @I172565250497@
+0 @F22@ FAM
+1 HUSB @I48114428674@
+1 WIFE @I170063358348@
+1 CHIL @I48114430055@
+1 CHIL @I48114430076@
+1 MARR
+2 DATE 12 Jun 2004
+2 SOUR @S_186886886@
+3 PAGE Ohio Department of Health; Columbus, Ohio; Ohio Marriage Index, 1970 and 1972-2007
+3 _HPID 1,2025::3031635
+3 _WPID 1,2025::8472596
+0 @F23@ FAM
+1 HUSB @I48115341648@
+1 WIFE @I48115341649@
+1 CHIL @I48115333799@
+1 MARR
+2 DATE 13 Jul 1736
+2 PLAC Christ Church Parish, Middlesex, Virginia, United States
+0 @F24@ FAM
+1 HUSB @I48115341999@
+1 WIFE @I48115342000@
+1 CHIL @I48115341649@
+1 MARR
+2 DATE 26 Apr 1724
+2 PLAC Eling, Hampshire, England
+0 @F25@ FAM
+1 HUSB @I48114427813@
+1 WIFE @I170063406580@
+1 CHIL @I48114430410@
+1 CHIL @I48114430424@
+0 @F26@ FAM
+1 HUSB @I48115333799@
+1 WIFE @I48115333800@
+1 CHIL @I48115332731@
+1 MARR
+2 DATE 19 Oct 1755
+2 PLAC Goochland, Virginia, American Colonies
+1 MARR
+2 DATE 1763
+2 PLAC Albemarle, Virginia, United States
+0 @F27@ FAM
+1 HUSB @I48115333799@
+1 WIFE @I48115334817@
+1 MARR
+2 DATE 8 Aug 1795
+2 PLAC Mecklenburg, Virginia, United States
+0 @F28@ FAM
+1 HUSB @I48115333799@
+1 WIFE @I48115334819@
+1 MARR
+2 DATE 19 Oct 1755
+2 PLAC Goochland, Goochland, Virginia, United States
+0 @F29@ FAM
+1 HUSB @I48114669225@
+1 WIFE @I170064145526@
+0 @F30@ FAM
+1 HUSB @I170063353826@
+1 WIFE @I170063353827@
+1 CHIL @I48114429912@
+1 CHIL @I170063355214@
+1 CHIL @I170063355215@
+1 CHIL @I170063356969@
+0 @F31@ FAM
+1 HUSB @I170063358147@
+1 WIFE @I48114430014@
+1 CHIL @I48114665032@
+1 CHIL @I172565250183@
+0 @F32@ FAM
+1 HUSB @I48115275658@
+1 WIFE @I48115275659@
+1 CHIL @I48114669217@
+1 MARR
+2 DATE 1874
+2 SOUR @S_186812392@
+3 PAGE Year: 1900; Census Place: Marshall, Platte, Missouri; Roll: 882; Page: 1B; Enumeration District: 0135; FHL microfilm: 1240882
+3 _HPID 1,7602::30291308
+3 _WPID 1,7602::30291309
+0 @F33@ FAM
+1 HUSB @I48115275658@
+1 WIFE @I48115277189@
+1 MARR
+2 DATE 15 May 1856
+2 PLAC Lawrence, Lawrence, Ohio, United States
+0 @F34@ FAM
+1 HUSB @I170064146771@
+1 WIFE @I48114669224@
+1 MARR
+2 DATE 16 Dec 1950
+2 PLAC Licking, Ohio, USA
+2 SOUR @S357533908@
+3 _HPID 1,61378::2036949
+3 _WPID 1,61378::902036949
+0 @F35@ FAM
+1 HUSB @I48115356035@
+1 WIFE @I48115356036@
+1 CHIL @I48115355624@
+0 @F36@ FAM
+1 HUSB @I48115355010@
+1 WIFE @I48115355014@
+1 CHIL @I48115345951@
+1 MARR
+2 DATE 1624
+2 PLAC Middlesex, Virginia, United States
+0 @F37@ FAM
+1 HUSB @I48115277185@
+1 WIFE @I48115277186@
+1 CHIL @I48115275658@
+1 MARR
+2 DATE 1831
+0 @F38@ FAM
+1 HUSB @I48115345950@
+1 WIFE @I48115345951@
+1 CHIL @I48115344661@
+1 MARR
+2 DATE 1669
+2 PLAC Middlesex,,Virginia,USA
+0 @F39@ FAM
+1 HUSB @I48114669217@
+1 WIFE @I48114669218@
+1 CHIL @I48114669221@
+1 CHIL @I48114669222@
+1 CHIL @I48114669224@
+1 CHIL @I48114669225@
+1 CHIL @I48114429859@
+1 CHIL @I48114669227@
+1 CHIL @I170063362110@
+0 @F40@ FAM
+1 HUSB @I170064147013@
+1 WIFE @I48114669222@
+1 MARR
+2 DATE 23 Apr 1952
+2 PLAC Licking, Ohio, USA
+2 SOUR @S357533908@
+3 _HPID 1,61378::4730392
+3 _WPID 1,61378::904730392
+0 @F41@ FAM
+1 HUSB @I48115344661@
+1 WIFE @I48115344662@
+1 CHIL @I48115341648@
+1 MARR
+2 DATE 26 Mar 1692
+2 PLAC Middlesex, Virginia, United States
+0 @F42@ FAM
+1 WIFE @I48114890003@
+1 CHIL @I172565249961@
+1 CHIL @I172565249937@
+1 CHIL @I172565249901@
+0 @F43@ FAM
+1 WIFE @I48114507461@
+1 CHIL @I170063406904@
+1 CHIL @I172565283919@
+1 CHIL @I172565283952@
+0 @F44@ FAM
+1 HUSB @I172539197613@
+1 CHIL @I48114507461@
+0 @F45@ FAM
+1 WIFE @I172539197694@
+1 CHIL @I48114507461@
+0 @F46@ FAM
+1 HUSB @I172539197775@
+1 CHIL @I170063353597@
+0 @F47@ FAM
+1 WIFE @I172539197783@
+1 CHIL @I170063353597@
+0 @F48@ FAM
+1 WIFE @I48114508122@
+1 CHIL @I172565250130@
+0 @F49@ FAM
+1 HUSB @I48114429616@
+1 CHIL @I172539197913@
+0 @F50@ FAM
+1 WIFE @I172539197961@
+1 CHIL @I172539197913@
+0 @F51@ FAM
+1 HUSB @I48115332272@
+1 CHIL @I48115277186@
+0 @F52@ FAM
+1 HUSB @I172437085698@
+1 CHIL @I48115345950@
+0 @F53@ FAM
+1 WIFE @I48114430023@
+1 CHIL @I172565250274@
+0 @F54@ FAM
+1 WIFE @I48114429912@
+1 CHIL @I48114507820@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 838137
+3 _WDTH 882
+3 _HGHT 1183
+2 TITL William_Kidd
+1 _OID 2ac3cfd9-8547-4b44-b7d1-77b23b02292b
+1 _CREA 2022-11-24 14:17:11.497
+1 _USER s+at8jDet1oLnblyLwY3GZDa8VGzFH9bu6eHvF+VIkvncE8cqyzWeMQ9eRAkyQ1l7AGokDdB2Xpst5JG3qJOhw==
+2 _ENCR 1
+1 _CLON
+2 _TID 180873309
+2 _PID 172372310525
+2 _OID 3500c9b4-b561-4181-bbca-987d3d7cdb1a
+2 _USER ii3Ka94gEtj3yvvWMwqHGx5hJyubkQSVHzgiLF5BuN1+T7EmhidINQS2YCp8a9PuL/pdNGd73GwrZ6tItIBCsQ==
+3 _ENCR 1
+2 _DATE 2022-06-22 22:47:09.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3500c9b4-b561-4181-bbca-987d3d7cdb1a
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 4872568
+3 _WDTH 4320
+3 _HGHT 3240
+2 TITL Betty Edwards Milum
+1 _OID 65385249-e5f0-4dc1-9128-9483ad1b9e9d
+1 _CREA 2023-12-15 14:46:29.494
+1 _USER v7EaqlWXiVm7ubGVSQ3lgP3sAOZV7viNklOM4ZhCCvMlnivdY+3ocU+/eJf5W3rcgq6KL2t6//tIGx0y+ziLtg==
+2 _ENCR 1
+1 _CLON
+2 _TID 105534272
+2 _PID 162050280544
+2 _OID 4b87a6e0-2075-46ae-8ddd-00d874da854d
+2 _USER AITaHJ1CPwWug3Fhgo785S4JGhx420ldnbO0ue/QvCPDxijhgNTF0mBvCkJHr4MaOB4UNJdIU/flZW9rwdx3lg==
+3 _ENCR 1
+2 _DATE 2018-10-24 19:23:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID 4b87a6e0-2075-46ae-8ddd-00d874da854d
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 2013533
+3 _WDTH 1485
+3 _HGHT 1009
+2 TITL milums - Ella ray francis bob leonard viola virgil briley
+1 _OID 65499961-81f0-4c94-80db-38172d6f8570
+1 _DSCR top: Robert Milum, Viola May Bricely, Virgil Milum, J Briley Milum
+2 CONT bottom: Jenny Luella Bowen, Alice B, baby Francis, Raymond Milum, Leonard Milum
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-12-15 14:45:35.794
+1 _USER 1IAYtzG6eSVCiWd3hq8PEjsyhpd8yL0rQhNJxpzredtWhUZyIYvWvjclZ/EmGskoBR74zRmh+6Tyh9UY2Q7JCA==
+2 _ENCR 1
+1 _CLON
+2 _TID 9653651
+2 _PID -765907769
+2 _OID 7f8b693b-20c8-4cc1-963f-ca37942b38f1
+2 _USER 69RgkIERYmznE+qO4xC3OziZ6nWZg0mSoj0B/HJXX+xeuSZLb9VLoeZqtidMTlitTQIIlD/rQlhwyEUI9xdrFA==
+3 _ENCR 1
+2 _DATE 2016-03-02 23:47:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7f8b693b-20c8-4cc1-963f-ca37942b38f1
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 31360
+3 _WDTH 204
+3 _HGHT 243
+2 TITL KIDD CREST
+1 _OID 94c27076-5b2e-460e-96af-105b264b5101
+1 _DSCR KIDD CREST SQUARED
+1 _CREA 2022-11-24 14:19:15.202
+1 _USER 9jvOdpp8/Y7vUi17nnLYK2ZR/CTe52U6OwYzon16xc2vpEJTD01UDQyUXhiTU0h84eby6K5gDdIyH7BevlhABA==
+2 _ENCR 1
+1 _CLON
+2 _TID 153265949
+2 _PID 122245389177
+2 _OID 07387543-46c6-45d8-8d78-9a54f58394ba
+2 _USER PJ1mgP/uzo0wUzMiJsyy0P/3MPcWDFia4jXv/gTttJnUPSoCbeZVITRwGaWqOtVRJJAHNWOPulKKGv0XDPQFgA==
+3 _ENCR 1
+2 _DATE 2020-04-07 23:28:57.000
+1 _ORIG u
+1 _MSER
+2 _LKID 07387543-46c6-45d8-8d78-9a54f58394ba
+1 _ATL N
+0 @S_186887232@ SOUR
+1 TITL U.S. Public Records Index, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1732::0
+1 REPO @R_798528273@
+0 @S_186887045@ SOUR
+1 TITL U.S. Public Records Index, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1788::0
+1 REPO @R_798528273@
+0 @S_186886888@ SOUR
+1 TITL Kentucky, Marriage Index, 1973-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,8787::0
+1 REPO @R_798528273@
+0 @S_186886886@ SOUR
+1 TITL Ohio Marriage Index, 1970, 1972-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT
+1 _APID 1,2025::0
+1 REPO @R_798528273@
+0 @S_186879533@ SOUR
+1 TITL Ohio Divorce Index, 1962-1963, 1967-1971, 1973-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT
+1 _APID 1,2026::0
+1 REPO @R_798528273@
+0 @S_186879411@ SOUR
+1 TITL U.S. City Directories, 1821-1989
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,2469::0
+1 REPO @R_798528273@
+0 @S_186879320@ SOUR
+1 TITL Ohio, Deaths, 1908-1932, 1938-2007
+1 AUTH Ancestry.com and Ohio Department of Health
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,5763::0
+1 REPO @R_798528273@
+0 @S_186879302@ SOUR
+1 TITL U.S., Social Security Death Index, 1935-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,3693::0
+1 REPO @R_798528273@
+0 @S_186862930@ SOUR
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,2442::0
+1 REPO @R_798528273@
+0 @S_186862924@ SOUR
+1 TITL Ohio, Birth Index, 1908-1964
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,3146::0
+1 REPO @R_798528273@
+0 @S_186862845@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R_798528273@
+0 @S_186812458@ SOUR
+1 TITL Arkansas Death Index, 1914-1950
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,8771::0
+1 REPO @R_798528273@
+0 @S_186812409@ SOUR
+1 TITL U.S., World War II Draft Registration Cards, 1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1002::0
+1 REPO @R_798528273@
+0 @S_186812392@ SOUR
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,7602::0
+1 REPO @R_798528273@
+0 @S_186810376@ SOUR
+1 TITL Christ Church Parish, Virginia Births, 1653-1812
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2000
+2 PLAC Provo, UT, USA
+1 _APID 1,4306::0
+1 REPO @R_798528273@
+0 @S_186809564@ SOUR
+1 TITL 1810 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,7613::0
+1 REPO @R_798528273@
+0 @S_186809047@ SOUR
+1 TITL Family Data Collection - Births
+1 AUTH Edmund West, comp.
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2001
+2 PLAC Provo, UT, USA
+1 _APID 1,5769::0
+1 REPO @R_798528273@
+0 @S357533908@ SOUR
+1 TITL Ohio, County Marriages, 1774-1993
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Lehi, UT, USA
+1 _APID 1,61378::0
+1 REPO @R_798528273@
+0 @S357534442@ SOUR
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,6061::0
+1 REPO @R_798528273@
+0 @S357534555@ SOUR
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,60525::0
+1 REPO @R_798528273@
+0 @S357534699@ SOUR
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2002
+2 PLAC Provo, UT, USA
+1 _APID 1,6224::0
+1 REPO @R_798528273@
+0 @S357535463@ SOUR
+1 TITL Web: Obituary Daily Times Index, 1995-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,70050::0
+1 REPO @R_798528273@
+0 @S357680234@ SOUR
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,60901::0
+1 REPO @R_798528273@
+0 @S357680404@ SOUR
+1 TITL U.S., School Yearbooks, 1880-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1265::0
+1 REPO @R_798528273@
+0 @S357681251@ SOUR
+1 TITL U.S. National Cemetery Interment Control Forms, 1928-1962
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,2590::0
+1 REPO @R_798528273@
+0 @R_798528273@ REPO
+1 NAME Ancestry.com
+0 TRLR
