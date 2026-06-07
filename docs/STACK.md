@@ -13,6 +13,8 @@ case."
 | `react` / `react-dom` | ^18.3  | UI. Concurrent features + StrictMode (which we explicitly guard against).     |
 | `ai`                | ^4.0.0   | Vercel AI SDK — `streamText` on the server, `useChat` on the client.          |
 | `@ai-sdk/anthropic` | ^1.0.0   | The Anthropic provider for the AI SDK — `anthropic('claude-sonnet-4-6')`.     |
+| `react-markdown`    | ^9.0.0   | Renders the model's Markdown replies (instead of showing raw `**`/`#`).       |
+| `remark-gfm`        | ^4.0.0   | GitHub-flavoured Markdown — tables, strikethrough, autolinks.                 |
 
 ## Dev dependencies
 
@@ -35,8 +37,10 @@ case."
 - **No session / auth library** — there is no server-side session to manage.
 - **No state-management library** — a handful of `useState` hooks in
   [`page.tsx`](../app/page.tsx) plus `useChat` is all that's needed.
-- **No markdown renderer** (yet) — assistant text is shown as pre-wrapped plain
-  text. Easy to add later if desired.
+- **No `@tailwindcss/typography`** — assistant Markdown is rendered with
+  `react-markdown` and hand-styled under `.message-body` in
+  [`globals.css`](../app/globals.css). The `prose` plugin's defaults are tuned
+  for light-on-white articles and would fight the parchment theme.
 
 ---
 

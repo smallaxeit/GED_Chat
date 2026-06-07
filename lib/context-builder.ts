@@ -109,17 +109,20 @@ export function matchNames(
 
   for (const ind of individuals) {
     const fullName = normalize(ind.nameFull);
-    const given = normalize(ind.givenName);
-    const surname = normalize(ind.surname);
 
     if (fullName && q.includes(fullName)) {
       full.push(ind);
       continue;
     }
 
-    const givenHit = given && qTokens.has(given);
-    const surnameHit = surname && qTokens.has(surname);
-    if (givenHit || surnameHit) {
+    // Tokenize so a single-word query ("justin", "kidd") still matches a
+    // multi-word given ("Justin M") or compound surname ("(Kreigbaum) Ritchey").
+    const nameTokens = [
+      ...normalize(ind.givenName).split(" "),
+      ...normalize(ind.surname).split(" "),
+    ].filter((t) => t.length > 1);
+
+    if (nameTokens.some((t) => qTokens.has(t))) {
       partial.push(ind);
     }
   }

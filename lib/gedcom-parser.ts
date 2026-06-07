@@ -117,7 +117,9 @@ function buildRecordTree(lines: string[]): Node[] {
     const line = rawLine.replace(/\r$/, "");
     if (line.trim() === "") continue;
 
-    const m = line.match(/^(\d+)\s+(@[^@]+@)?\s*(\S+)?(?:\s(.*))?$/);
+    // Value uses [\s\S]* (not .*) so values carrying a folded CONT newline are
+    // captured whole rather than truncating — or dropping — the line.
+    const m = line.match(/^(\d+)\s+(@[^@]+@)?\s*(\S+)?(?:\s([\s\S]*))?$/);
     if (!m) continue;
 
     const level = parseInt(m[1], 10);

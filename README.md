@@ -61,13 +61,21 @@ file — so answers stay fast and grounded.
 - **Hand-written GEDCOM parser** — CONT/CONC reassembly, level-walking, name
   parsing, tolerant of the many real-world date formats (`08 25 1979`,
   `abt 1980`, `1 Nov 1971`, `06 JUN 1809`, `01/14/2017`).
+- **Clean Title-Case names** — names are normalized at parse time
+  (`KIDD` → `Kidd`) while preserving `McDonald`, `O'Brien`, and roman-numeral
+  suffixes (`II`, `III`).
+- **A browsable hub** — after upload, a summary screen with a front-and-centre
+  question box, plus clickable **People** and **Families** tiles that open
+  searchable lists; tapping a row asks about that person or family.
 - **Five-way question routing** — relationship, biographical, aggregate,
   temporal, and a fallback, each building a differently-shaped context.
 - **BFS relationship finder** — shortest path between any two people with
   labelled spouse / parent / child edges.
-- **Verified suggestions** — the three starter questions are checked against
-  your actual data; the app never suggests a question it can't answer.
-- **Streaming chat** with a pulsing cursor, grounded by a strict system prompt.
+- **Verified, whole-tree suggestions** — the three starter questions are
+  checked against your actual data; the app never suggests a question it can't
+  answer, and never cherry-picks a specific person.
+- **Streaming chat** with rendered Markdown (lists, tables, headings), a pulsing
+  cursor, and a strict, grounded system prompt.
 
 ---
 
@@ -76,22 +84,26 @@ file — so answers stay fast and grounded.
 ```
 app/
   layout.tsx              Fonts + root shell
-  page.tsx                'use client' state machine: upload | summary | chat | error
-  globals.css             Theme tokens, scrollbar, streaming cursor
+  page.tsx                'use client' state machine:
+                          upload | summary | people | families | chat | error
+  globals.css             Theme tokens, scrollbar, streaming cursor, markdown styles
   api/
     upload/route.ts       POST: parse GEDCOM → TreeSummary + TreeData
     chat/route.ts         POST: { messages, context } → streamed answer
 
 lib/
   types.ts                Individual, Family, TreeData, TreeSummary, Edge, PathStep
-  gedcom-parser.ts        reassembleContinuations(), parseGedcom(), parseName(), extractYear()
+  gedcom-parser.ts        reassembleContinuations(), parseGedcom(), parseName(),
+                          properCase(), extractYear()
   relationship.ts         buildAdjacency(), findPath() — BFS
   context-builder.ts      classifyQuestion(), matchNames(), buildContext()
 
 components/
   upload-screen.tsx       Drag-and-drop upload zone
-  summary-screen.tsx      Tree stats + suggested questions
-  chat-screen.tsx         useChat + per-request context injection
+  summary-screen.tsx      Hub: prompt + clickable People/Families tiles + suggestions
+  people-screen.tsx       Searchable list of everyone; tap to ask
+  families-screen.tsx     List of couples (marriage year, child count); tap to ask
+  chat-screen.tsx         useChat + per-request context injection + Markdown rendering
 
 docs/
   ARCHITECTURE.md         Data flow, statelessness, the five context branches

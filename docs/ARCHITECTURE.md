@@ -87,7 +87,7 @@ exactly what it needs and nothing more.
 | --------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- |
 | **Relationship**| related, cousin, uncle, aunt, ancestor, descendant…           | Both full records + every person on the BFS path + edge labels         | none |
 | **Biographical**| born, died, married, when, where, who is, tell me about…      | Subject's full record + parents + spouses + children                   | 50   |
-| **Aggregate**   | most, longest, oldest, how many, list, count, average…       | Compact list of everyone (id, name, dates, places; nulls stripped)     | none |
+| **Aggregate**   | most, longest, oldest, how many, list, count, average…       | Compact list of everyone (id, name, dates, places; nulls stripped) **+ a compact families list** (couple, marriage, child count) | none |
 | **Temporal**    | alive in, born in <year>, during, century, generation…       | People whose lifespan overlaps the referenced year(s)                  | 50   |
 | **Fallback**    | anything else                                                  | Named people + immediate family, **or** the 20 richest records         | 50   |
 
@@ -104,7 +104,10 @@ every turn. By sending only the relevant slice:
   ~2–20 people on it.
 - **Biographical** questions need one family neighbourhood.
 - **Aggregate** questions genuinely need everyone, but only a few fields each
-  (nulls stripped), which stays compact.
+  (nulls stripped), which stays compact. Families ride along in the same compact
+  form so "which couple had the most children?" is answerable — otherwise the
+  individual-only payload would have no child links and the question would
+  dead-end.
 
 ---
 
@@ -135,10 +138,10 @@ reassembleContinuations()   fold CONT (newline) / CONC (no separator) into paren
   │
   ▼
 buildRecordTree()           level-walk flat lines into nested record nodes
-  │
+  │                         (value capture uses [\s\S]* so folded newlines survive)
   ▼
-parseIndividual / parseFamily   extract typed shapes; normalize @X@ → X
-  │
+parseIndividual / parseFamily   extract typed shapes; normalize @X@ → X;
+  │                             properCase() the names
   ▼
 TreeData { individuals, families }
 ```
@@ -151,21 +154,39 @@ Robustness details:
   year (1000–2100) for span/temporal logic, while the original string is kept
   for display and for the model.
 - **Cross-reference IDs** (`@I48114428611@`) are normalized by stripping `@`.
+- **Name casing** — `properCase()` Title-Cases names at parse time
+  (`KIDD` → `Kidd`) while preserving intentional mixed case (`McDonald`,
+  `O'Brien`) and roman-numeral suffixes (`II`, `III`), and collapses stray
+  whitespace. Normalizing here means lists, the summary, the model context, and
+  therefore the model's answers all use the same clean names.
 
 ---
 
 ## State machine ([`app/page.tsx`](../app/page.tsx))
 
 ```
-        ┌─────────┐  file ok   ┌──────────┐  ask / suggested  ┌────────┐
-        │ upload  │ ─────────▶ │ summary  │ ────────────────▶ │  chat  │
-        └─────────┘            └──────────┘                   └────────┘
-             ▲                       │                             │
-             │  "Try another file"   │  >50MB / parse error        │ "New file"
-             │                       ▼                             │
-             └──────────────────  error  ◀────────────────────────┘
+                              ┌──────────┐
+                       ┌─────▶│  people  │─────┐  tap a person → ask
+                       │      └──────────┘     │
+        ┌─────────┐ file ok ┌──────────┐       ▼        ┌────────┐
+        │ upload  │────────▶│ summary  │──── ask ──────▶│  chat  │
+        └─────────┘         └──────────┘       ▲        └────────┘
+             ▲              │     │ │          │             │
+             │ "Try another"│     │ └─────▶┌──────────┐      │ ← Overview
+             │              │     │        │ families │      │   (back to summary)
+             │              ▼     │        └──────────┘      │
+             └────────── error    └── People/Families tiles  │
+                                       open list screens     │
+                  chat "New file" ─────────────────────────▶ resets to upload
 ```
 
-A suggested-question tap transitions straight to `chat` with the question passed
-as `initialQuestion`; `ChatScreen` fires it once via `append` in a
-ref-guarded `useEffect` (safe under React StrictMode's double-invoke).
+States: `upload | summary | people | families | chat | error`.
+
+- The **summary** is the hub: its prompt and suggested questions both transition
+  to `chat`; the People/Families tiles open the list screens.
+- A suggested-question tap (or a list-row tap) passes the question as
+  `initialQuestion`; `ChatScreen` fires it once via `append` in a ref-guarded
+  `useEffect` (safe under React StrictMode's double-invoke).
+- `chat` offers **← Overview** (back to `summary`, keeping the parsed tree) and
+  **New file** (full reset to `upload`). People/Families screens have their own
+  **← Overview** back button.
